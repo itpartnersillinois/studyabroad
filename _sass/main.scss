@@ -1,0 +1,15 @@
+$blue_base: #13294B;
+$lightblue_base: #3B79B8;
+$orange_base: #FF552E;
+$orange_algeld_base: #DD3404;
+$white_base: #FEFEFE;
+$cloud_base: #F8FAFC;
+$black_base: #030303;
+$background: #13294B;
+
+@import 'campus-overrides.scss';
+@import 'global.scss';
+@import 'menu.scss';
+@import 'body.scss';
+@import 'background.scss';
+@import 'visuallyhidden.scss';

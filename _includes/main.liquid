@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+        <header>
+        {% include header.liquid %}
+        </header>
+        {% include menu.liquid %}
+        <section class="header-image">
+            <div style="background-image: url({{ headerImage }});"> </div>
+        </section>
+        <div class="main">
+        <main>
+        <h1>{{ pageTitle }} </h1>
+        {{ content }}
+        </main>
+        <aside>
+            {% include sidebar.liquid %}
+        </aside>
+        </div>
+        <footer>
+            {% include footer.liquid %}
+        </footer>
+    </body>
+</html>

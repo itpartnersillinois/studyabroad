@@ -1,0 +1,46 @@
+[
+    { 
+        "name": "Why With Us",
+        "url": "/why-with-us/index.html",
+        "pages": [
+            {
+                "name": "Who We Are",
+                "url": "/who-we-are/index.html"
+            }
+        ]
+    },
+    { 
+        "name": "Program Themes",
+        "url": "/program-themes/index.html"
+    },
+    { 
+        "name": "Resources",
+        "url": "/resources/index.html",
+        "pages": [
+            {
+                "name": "Safety & Security",
+                "url": "/safety-security/index.html"
+            },
+            {
+                "name": "Applying For a Passport",
+                "url": "/applying-for-a-passport/index.html"
+            },
+            {
+                "name": "Visa Information",
+                "url": "/visa-information/index.html"
+            },
+            {
+                "name": "Homestays",
+                "url": "/homestays/index.html"
+            }
+        ]
+    },
+    { 
+        "name": "How To Apply",
+        "url": "/how-to-apply/index.html"
+    },
+    { 
+        "name": "Program Search",
+        "url": "/program-search/index.html"
+    }
+]
