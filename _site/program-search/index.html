@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-<title>Home | Study Abroad | College of Education | U of I</title>
+<title>Search Programs | Study Abroad | College of Education | U of I</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link type="text/css" href="/style/site.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Montserrat:wght@400;500;800&display=swap" rel="stylesheet">
@@ -18,8 +18,9 @@
   gtag('js', new Date());
   gtag('config', 'G-SLBWRDNLWN');
 </script>
+        <script src="/js/search.js"></script>
     </head>
-    <body class="">
+    <body class="search">
         <header>
         <il-header>
     <div slot="wordmark">
@@ -36,18 +37,42 @@
 <ul class="menu-column"><li class="menu-submenu-item"><a href="/why-with-us/index.html">Why With Us</a><ul class="menu-submenu"><li class="menu-section"><a href="/who-we-are/index.html">Who We Are</a></li></ul></li><li class="menu-section"><a href="/program-themes/index.html">Program Themes</a></li><li class="menu-submenu-item"><a href="/resources/index.html">Resources</a><ul class="menu-submenu"><li class="menu-section"><a href="/safety-security/index.html">Safety & Security</a></li><li class="menu-section"><a href="/applying-for-a-passport/index.html">Applying For a Passport</a></li><li class="menu-section"><a href="/visa-information/index.html">Visa Information</a></li><li class="menu-section"><a href="/homestays/index.html">Homestays</a></li></ul></li><li class="menu-section"><a href="/how-to-apply/index.html">How To Apply</a></li><li class="menu-section"><a href="/program-search/index.html">Program Search</a></li></ul>
 </il-menu>
 </nav>
-        <section class="header-image">
-            <div style="background-image: url(/img/header/homepage.png);"> </div>
-        </section>
-        <div class="main">
         <main>
-        <h1>Home </h1>
-        
+            <h1>Search Programs</h1>
+            <div class='criteria'>
+            <p>I want to study in
+            <label for="region" class="visuallyhidden">Choose a region</label>
+            <select class="region" name="region" id="region">
+                <option value="" selected="" >Any Region</option>
+                <option value="europe">Europe</option>
+                <option value="asia">Asia</option>
+                <option value="africa">Africa</option>
+                <option value="centralamerica">Central America</option>
+                <option value="southamerica">South America</option>
+                <option value="caribbean">Caribbean</option>
+            </select>
+            during
+            <label for="term" class="visuallyhidden">Choose a school term</label>
+            <select class="term" name="term" id="term">
+                <option value="" selected="">Any Term</option>
+                <option value="semester">Semester</option>
+                <option value="springbreak">Spring Break</option>
+                <option value="summer">Summer Break</option>
+            </select>
+            </p>
+            <p>
+            <label for="theme" class="visuallyhidden">Or choose an educational theme</label>
+            <select class="theme" name="theme" id="theme">
+                <option value="" selected="">Or choose an educational theme</option>
+                <option value="Teach Abroad">Teach Abroad</option>
+                <option value="Best Practices in Global Education">Best Practices in Global Education</option>
+                <option value="Historical Depth and Context">Historical Depth and Context</option>
+                <option value="Citizenship in a Global Era">Citizenship in a Global Era</option>
+            </select>
+            </p>
+            </div>
+           <div id="results"></div>
         </main>
-        <aside>
-            
-        </aside>
-        </div>
         <footer>
             <il-footer>
 <div slot="contact" class="il-footer-contact uofi_address">

@@ -19,6 +19,20 @@ module.exports = (function (eleventyConfig) {
     return `<div style='position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;'><iframe title='YouTube Video Frame' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' src='${video}' frameborder='0' allowfullscreen></iframe></div>`; 
   });
 
+  eleventyConfig.addFilter("countryheader", function (url, countries) {
+    var returnValue = '';
+    console.log(countries == null);
+    console.log(url);
+    countries.forEach(country => {
+      console.log(country.url.valueOf());
+      if (country.url === url) {
+        console.log('triggering');
+        returnValue = `<p>${country.name}</p>`;
+      }
+    });
+    return returnValue;
+  });
+
   eleventyConfig.addFilter("menu", function (items) {
     var returnValue = '<ul class="menu-column">';
     items.forEach(element => {

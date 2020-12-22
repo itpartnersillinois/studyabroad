@@ -1,0 +1,45 @@
+#results {
+    max-width: 1600px;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-gap: 10px;
+
+    div {
+        background: #f1f1f1;
+    }
+
+    div.dates {
+        text-align: center;
+        font-size: 1em;
+        margin-top: 222px;
+        background: rgba(255,255,255,.7);
+        font-weight: bold;
+        font-family: "Montserrat", sans-serif;
+        padding: 5px;
+    }
+
+    h2 {
+        background: #13294B;
+        margin: 0;
+        color: white;
+    }
+
+    .image {
+        width: 100%;
+        height: 250px;
+        float: left;
+        background-size: cover;
+        background-position: center;
+    }
+
+    a {
+        text-decoration: none;
+        background: unset;
+        color: unset;
+    }
+
+    a:focus, a:hover {
+        filter: brightness(50%);
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Finland / Estonia",
+        "url": "finland-estonia",
+        "imageurl": "finland.jpg",
+        "bannerimageurl": "finland_banner.jpg",
+        "term": ["semester", "springbreak"],
+        "region": "europe",
+        "deadline": "February 1, 2022",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "March 2022",
+        "themes": ["Best Practices in Global Education"],
+        "futuredates": ["Spring Break '22"],
+        "teachabroad": false
+    },
+    {
+        "name": "France",
+        "url": "france",
+        "imageurl": "france.jpg",
+        "bannerimageurl": "france_banner.jpg",
+        "term": ["semester", "summer"],
+        "region": "europe",
+        "deadline": "April 1, 2022",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "Summer 2022",
+        "themes": ["Teach Abroad", "Best Practices in Global Education", "Historical Depth and Context"],
+        "futuredates": ["Summer '22", "Summer '23", "Summer '24"],
+        "teachabroad": true
+    },
+    {
+        "name": "Spain",
+        "url": "spain",
+        "imageurl": "spain.jpg",
+        "bannerimageurl": "spain_banner.jpg",
+        "term": ["springbreak"],
+        "region": "europe",
+        "deadline": "February 1, 2022",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "March 2022",
+        "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
+        "futuredates": ["Spring Break '22", "Spring Break '24"],
+        "teachabroad": false
+    },
+    {
+        "name": "Spain Semester",
+        "url": "spain-semester",
+        "imageurl": "spain.jpg",
+        "bannerimageurl": "spain_banner.jpg",
+        "term": ["semester"],
+        "region": "europe",
+        "deadline": "April 1, 2021",
+        "credits": "",
+        "cost": "$13,500",
+        "dates": "Fall 2021",
+        "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
+        "futuredates": ["Fall '22", "Fall '23", "Fall '24"],
+        "teachabroad": false
+    }
+]
