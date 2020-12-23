@@ -1,0 +1,70 @@
+body.country {
+    #information {
+        display: none;
+    }
+
+    .row-main {
+        max-width: 1400px;
+        padding: 30px;
+        margin: auto;
+        background: white;
+        display: flex;
+
+        .column-main {
+            flex: 0 0 calc(100% - 450px);
+        }
+
+        .column-side {
+            flex: 0 0 450px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, 150px);
+            grid-template-rows: repeat(auto-fill, 150px);
+
+            button {
+                box-sizing: border-box;
+                width: 150px;
+                height: 150px;
+                padding: 10px;
+                text-align: center;
+                color: white;
+                border: thin white solid;
+
+                &.blue {
+                    background: #0f3a65;
+                }
+                &.orange {
+                    background: #e84a27;
+                }
+
+                div {
+                    font-family: "Montserrat", sans-serif;
+                    margin-top: 20px;
+                    font-size: 1.1em;
+                }
+            }
+            button:focus, button:hover {
+                filter: brightness(200%);
+            }
+        }
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+    body.country {
+        .row-main {
+            display: block;
+            padding: 0px;
+
+            .column-main {
+                padding: 5px;
+                width: 100%;
+            }
+
+            .column-side {
+                padding: 5px;
+                width: 100%;
+            }
+        }
+    }
+}

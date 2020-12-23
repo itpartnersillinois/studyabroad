@@ -1,7 +1,9 @@
 ---
 layout: country.liquid
 url: finland-estonia
-learnmore: "https://forms.illinois.edu/sec/949661"
+pageTitle: Finland / Estonia
+learnMore: "https://forms.illinois.edu/sec/949661"
+information: To edit the header, please go to the _data/countries.json file and edit the information there
 ---
 
 ## Explore Finland and Estonia over Spring Break!
@@ -9,6 +11,15 @@ learnmore: "https://forms.illinois.edu/sec/949661"
 Spring Break 2022*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127248.38826799383!2d24.878600541357766!3d60.11026091123205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920bc796210691%3A0xcd4ebd843be2f763!2sHelsinki%2C+Finland!5e0!3m2!1sen!2sus!4v1566233255254!5m2!1sen!2sus" width="400" height="300" style="border: 0" sandbox="allow-scripts allow-same-origin"></iframe>
+
+
+<div id="information">
+
+<div id="housing"></div>
+
+<div id="programs"></div>
+
+<div id="attractions"></div>
 
 <div id="courses">
 
@@ -47,6 +58,8 @@ Upon admission to a program, you will be provided with a financial aid budget fo
 
 </div>
 
+<div id="testimonials"></div>
+
 <div id="faculty">
 
 **Dr. Allison Witt - Course Instructor**
@@ -54,4 +67,4 @@ Upon admission to a program, you will be provided with a financial aid budget fo
 Allison Witt is the Director of International Programs in the College of Education at the University of Illinois Urbana-Champaign where she teaches Global Studies in Education and is the Program Leader for the International Education Administration and Leadership program. 
 
 </div>
-
+</div>

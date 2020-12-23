@@ -63,3 +63,9 @@ a:hover, a:focus {
     color: $blue_base;
     transition: .5s;
 }
+
+@media only screen and (max-width: 800px) {
+    body {
+    background: #fff;
+    }
+}

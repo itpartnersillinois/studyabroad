@@ -21,13 +21,16 @@ module.exports = (function (eleventyConfig) {
 
   eleventyConfig.addFilter("countryheader", function (url, countries) {
     var returnValue = '';
-    console.log(countries == null);
-    console.log(url);
     countries.forEach(country => {
-      console.log(country.url.valueOf());
       if (country.url === url) {
-        console.log('triggering');
-        returnValue = `<p>${country.name}</p>`;
+        returnValue = `<section class="header-image">
+        <div style="background-image: url(/img/country/${country.bannerimageurl});"> 
+          <h1>${country.name}</h1>
+          <table> <tbody><tr>
+          <th>Deadline to Apply</th> <th>Credits</th> <th>Cost</th> <th class="last">Next Session</th></tr> 
+          <tr> <td>${country.deadline}</td> <td>${country.credits}</td> <td>${country.cost}</td> <td class="last">${country.dates}</td></tr>
+          </tbody></table>
+        </div></section>`;
       }
     });
     return returnValue;

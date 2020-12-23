@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         {% include head.liquid %}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
         <script src="/js/country.js"></script>
     </head>
     <body class="country">
@@ -11,24 +12,26 @@
         {% include menu.liquid %}
         <main>
         {{ url || countryheader: countries }}
-        <section class="header-image">
-            <div style="background-image: url({{ headerImage }});"> </div>
-            <h1>{{ pageTitle }} </h1>
-            <div class="subblock">
-            </div>
-        </section>
-        <div class="row">
+        <div class="row-main">
             <div class="column-main">
+                <a href="{{ learnMore }}" class="button" id="button-learnmore">Learn More &gt;</a>
+                <div id="side-main">
                 {{ content }}
+                </div>
+                <div id="side-display"></div>
             </div>
             <div class="column-side">
-
+                <button id="button-housing"><i class="fas fa-home fa-3x"></i><div>Housing</div></button>
+                <button id="button-programs"><i class="fas fa-shoe-prints fa-3x"></i><div>Daily Programs &amp; Excursions</div></button>
+                <button id="button-attractions"><i class="fas fa-map-marked fa-3x"></i><div>Attractions &amp; Other Info</div></button>
+                <button id="button-courses"><i class="fas fa-chalkboard-teacher fa-3x"></i><div>Courses</div></button>
+                <button id="button-topics"><i class="fas fa-clipboard-list fa-3x"></i><div>Key Topics of Study</div></button>
+                <button id="button-cost"><i class="fas fa-dollar-sign fa-3x"></i><div>Costs &amp; Budgets</div></button>
+                <button id="button-scholarship"><i class="fas fa-hand-holding-usd fa-3x"></i><div>Scholarship</div></button>
+                <button id="button-testimonials"><i class="fas fa-film fa-3x"></i><div>Testimonials</div></button>
+                <button id="button-faculty"><i class="fas fa-user-alt fa-3x"></i><div>Faculty &amp; Staff</div></button>
             </div>
-
         </main>
-        <aside>
-            {% include sidebar.liquid %}
-        </aside>
         <footer>
             {% include footer.liquid %}
         </footer>
