@@ -14,9 +14,11 @@
         {{ url || countryheader: countries }}
         <div class="row-main">
             <div class="column-main">
-                <a href="{{ learnMore }}" class="button" id="button-learnmore">Learn More &gt;</a>
+                {{ url || learnmore: countries }}
                 <div id="side-main">
                 {{ content }}
+
+                <p style="font-style: italic; line-height: initial;">* Due to COVID-19, our summer programs are currently <strong>tentatively</strong> set to begin Summer 2021. We will continue to monitor the situation for travel to/from the United States, and updates will be shared as to the current status of study abroad programs.</p>
                 </div>
                 <div id="side-display"></div>
             </div>

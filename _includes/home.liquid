@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    </head>
+    <body class="home">
+        <header>
+        {% include header.liquid %}
+        </header>
+        {% include menu.liquid %}
+        <main>
+        <section class="header-image">
+            <div style="background-image: url(/img/header/headerglobe.jpg); height: 400px; display: flex; justify-content: center;"> 
+            <div class="program-select"> 
+            <h1>Explore Education Around The World</h1>
+            <p>Find your program today</p>
+            <a class="button" href="/program-search/index.html">Browse Programs</a> <a class="button" href="/how-to-apply/index.html">Apply Today</a>
+            </div>
+            </div>
+        </section>
+        <section class="body" style="background-image: url(/img/header/personadven.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; padding: 150px 0; background-attachment: fixed;">
+            <div class="main-text">
+                {{ content }}
+            </div>
+        </section>
+        <section id="usefulInfo"> <h2 style="text-align:center;">Useful Information</h2> 
+        <div class="infoAndContent"> 
+        <div class="box scholarships"> 
+        <a href="/scholarships/index.html"><i class="fas fa-hand-holding-usd fa-4x"></i><p>Scholarships</p> </a> 
+        </div> 
+        <div class="box passport"> 
+        <a href="/program-themes/index.html"> <i class="fas fa-passport fa-4x"></i> <p>Program <br>Themes</p> </a> 
+        </div> 
+        <div class="box apply"> 
+        <a href="/how-to-apply/index.html"> <i class="fas fa-map-marked fa-4x"></i> <p>How to<br>Apply</p> </a> 
+        </div> 
+        <div class="box tools"> 
+        <a href="/resources/index.html"> <i class="fas fa-info-circle fa-4x"></i> <p>Advice &amp; <br> Tools</p> </a> 
+        </div>
+        </div> 
+        </section>
+        </main>
+        <footer>
+            {% include footer.liquid %}
+        </footer>
+    </body>
+</html>

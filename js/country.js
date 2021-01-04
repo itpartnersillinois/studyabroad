@@ -1,5 +1,5 @@
 function add() {
-    var lookup = {'housing': 'Housing', 'programs': 'Daily Programs and Excursions', 'attractions': 'Attractions and Other Infomration', 'courses': 'Courses', 'topics': 'Key Topics of Study', 'cost': 'Cost and Budgets', 'scholarship': 'Scholarship', 'testimonials': 'Testimonials', 'faculty': 'Faculty and Staff'};
+    var lookup = {'housing': 'Housing', 'programs': 'Daily Programs and Excursions', 'attractions': 'Attractions and Other Information', 'courses': 'Courses', 'topics': 'Key Topics of Study', 'cost': 'Cost and Budgets', 'scholarship': 'Scholarship', 'testimonials': 'Testimonials', 'faculty': 'Faculty and Staff'};
     let item = this.id.replace('button-', '');
     if (currentItem == item) {
         document.getElementById('side-display').style.display = 'none';

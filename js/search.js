@@ -3,7 +3,9 @@ function search() {
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             var results = '';
-            JSON.parse(this.responseText).forEach(country => {
+            var countries = JSON.parse(this.responseText);
+            countries.sort((a, b) => (a.name > b.name) ? 1 : -1)
+            countries.forEach(country => {
                 var term = document.getElementById('term').value;
                 var theme = document.getElementById('theme').value;
                 var region = document.getElementById('region').value;
@@ -11,7 +13,7 @@ function search() {
                     (theme == '' || country.themes.includes(theme)) && 
                     (region == '' || country.region === region);
                 if (show) {
-                    results = results + `<div><h2><a href='/${country.url}/index.html' tabindex=-1>${country.name}</a></h2><a href='/${country.url}/index.html'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
+                    results = results + `<div><h2><a href='/countries/${country.url}/index.html' tabindex=-1>${country.name}</a></h2><a href='/countries/${country.url}/index.html'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
                     results = results + `<div class='dates'>${country.futuredates.join(', ')}</div></div></a>`;
                     results = results + `</div>`;
                 }

@@ -12,6 +12,10 @@ body.country {
 
         .column-main {
             flex: 0 0 calc(100% - 450px);
+
+            .button {
+                margin: 0;
+            } 
         }
 
         .column-side {
@@ -19,6 +23,7 @@ body.country {
             display: grid;
             grid-template-columns: repeat(auto-fill, 150px);
             grid-template-rows: repeat(auto-fill, 150px);
+            padding-left: 15px;
 
             button {
                 box-sizing: border-box;
@@ -46,6 +51,11 @@ body.country {
                 filter: brightness(200%);
             }
         }
+    }
+
+    iframe {
+        float: left;
+        padding-right: 20px;
     }
 }
 

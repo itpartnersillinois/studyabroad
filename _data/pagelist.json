@@ -1,5 +1,13 @@
 [
     { 
+        "name": "Program Search",
+        "url": "/program-search/index.html"
+    },
+    { 
+        "name": "Program Themes",
+        "url": "/program-themes/index.html"
+    },
+    { 
         "name": "Why With Us",
         "url": "/why-with-us/index.html",
         "pages": [
@@ -8,10 +16,6 @@
                 "url": "/who-we-are/index.html"
             }
         ]
-    },
-    { 
-        "name": "Program Themes",
-        "url": "/program-themes/index.html"
     },
     { 
         "name": "Resources",
@@ -37,10 +41,32 @@
     },
     { 
         "name": "How To Apply",
-        "url": "/how-to-apply/index.html"
-    },
-    { 
-        "name": "Program Search",
-        "url": "/program-search/index.html"
+        "url": "/how-to-apply/index.html",
+        "pages": [
+            {
+                "name": "Registration & Course Information",
+                "url": "/registration/index.html"
+            },
+            {
+                "name": "Semester Course Approvals",
+                "url": "/semester-course-approvals/index.html"
+            },
+            {
+                "name": "Scholarships and Financial Aid",
+                "url": "/scholarships/index.html"
+            },
+            {
+                "name": "Billing",
+                "url": "/billing/index.html"
+            },
+            {
+                "name": "Withdrawal",
+                "url": "/withdrawal/index.html"
+            },
+            {
+                "name": "Program Advising",
+                "url": "/program-advising/index.html"
+            }
+        ]
     }
 ]

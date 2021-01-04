@@ -36,6 +36,17 @@ module.exports = (function (eleventyConfig) {
     return returnValue;
   });
 
+  eleventyConfig.addFilter("learnmore", function (url, countries) {
+    var returnValue = '';
+    countries.forEach(country => {
+      if (country.url === url) {
+        returnValue = `<a href="${country.learnmore}" class="button" id="button-learnmore">Learn More &gt;</a>`;
+      }
+    });
+    return returnValue;
+  });
+
+
   eleventyConfig.addFilter("menu", function (items) {
     var returnValue = '<ul class="menu-column">';
     items.forEach(element => {

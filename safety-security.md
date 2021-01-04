@@ -41,7 +41,7 @@ There are many options to help you communicate with family and friends, as well 
 * [Access the University Library Database Abroad](http://www.library.illinois.edu/library-technology/access-databases-on-and-off-campus/) 
 
 ## Money
-Protect your finances abroad by having multiple forms of payment on hand. Alert your bank and credit card company about your travel, contact them with issues you have abroad, and ask about additional international fees they may charge. If you need more money while abroad, contact your bank for recommendations on reputable banks or financial services companies in your host city. In a financial emergency, the [Bureau of Consular Affairs]() can assist U.S. citizens abroad. International students should seek the support of their home country’s consular office.
+Protect your finances abroad by having multiple forms of payment on hand. Alert your bank and credit card company about your travel, contact them with issues you have abroad, and ask about additional international fees they may charge. If you need more money while abroad, contact your bank for recommendations on reputable banks or financial services companies in your host city. In a financial emergency, the [Bureau of Consular Affairs](https://www.usembassy.gov/) can assist U.S. citizens abroad. International students should seek the support of their home country’s consular office.
 
 * [17 Smart and Realistic Tips for Your Study Abroad Budget](http://www.diversityabroad.com/study-abroad/articles/17-smart-realistic-tips-study-abroad-budget)
 * [Making Your Money Stretch While Abroad](http://www.diversityabroad.com/study-abroad/articles/making-money-stretch-abroad)
