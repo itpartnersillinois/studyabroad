@@ -10,7 +10,7 @@ information: To edit the header, please go to the _data/countries.json file and 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44538.5214806362!2d4.800101680107329!3d45.758010034753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea516ae88797%3A0x408ab2ae4bb21f0!2sLyon%2C+France!5e0!3m2!1sen!2sus!4v1566231147547!5m2!1sen!2sus" width="400" height="300" style="border: 0" sandbox="allow-scripts allow-same-origin"></iframe>
 
-Lyon Métropole (Greater Lyon) has more than 1,350,000 inhabitants. Lyon is an industrial city, wheremechanics, chemistry, and construction take the center stage. The city is also the capital of the silk and synthetic textiles industries, and is renowned as a place of medical and academic excellence, without forgetting its gastronomy, and the reputation of which is known worldwide.
+Lyon Métropole (Greater Lyon) has more than 1,350,000 inhabitants. Lyon is an industrial city, where mechanics, chemistry, and construction take the center stage. The city is also the capital of the silk and synthetic textiles industries, and is renowned as a place of medical and academic excellence, without forgetting its gastronomy, and the reputation of which is known worldwide.
 
 <div id="information">
 
