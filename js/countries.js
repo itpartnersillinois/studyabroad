@@ -28,7 +28,7 @@
         "cost": "$2000",
         "dates": "March 2022",
         "themes": [],
-        "futuredates": ["Spring Break '22, Spring Break '24"],
+        "futuredates": ["Spring Break '22, '24"],
         "teachabroad": false
     },
     {
@@ -44,7 +44,7 @@
         "cost": "$2000",
         "dates": "Summer 2021",
         "themes": ["Teach Abroad", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Summer '21", "Summer '22", "Summer '23", "Summer '24"],
+        "futuredates": ["Summer '22", "'23", "'24"],
         "teachabroad": true
     },
     {
@@ -60,7 +60,7 @@
         "cost": "$2000",
         "dates": "March 2022",
         "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Spring Break '22", "Spring Break '24"],
+        "futuredates": ["Spring Break '22", "'24"],
         "teachabroad": false
     },
     {
@@ -76,7 +76,7 @@
         "cost": "$13,500",
         "dates": "Fall 2021",
         "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Fall '22", "Fall '23", "Fall '24"],
+        "futuredates": ["Fall/Spring '22", "'23", "'24"],
         "teachabroad": false
     },
     {
@@ -92,7 +92,7 @@
         "cost": "$2000",
         "dates": "March 2021",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Spring Break '21", "Spring Break '22", "Spring Break '23"],
+        "futuredates": ["Spring Break '21", "'22", "'23"],
         "teachabroad": false
     },
     {
@@ -108,7 +108,7 @@
         "cost": "$13,500",
         "dates": "Fall 2021",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Fall '21", "Fall '22", "Fall '23", "Fall '24"],
+        "futuredates": ["Fall '21", "Fall/Spring '22", "'23", "'24"],
         "teachabroad": false
     },
     {
@@ -124,7 +124,7 @@
         "cost": "$13,500",
         "dates": "Fall Semester 2021",
         "themes": [],
-        "futuredates": ["Semester '21", "Semester '22", "Semester '23", "Semester '24"],
+        "futuredates": ["Fall '21", "Fall/Spring '22", "'23", "'24"],
         "teachabroad": false
     },
     {
@@ -156,7 +156,7 @@
         "cost": "$13,500",
         "dates": "Fall Semester '21",
         "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredates": ["Semester '21", "Semester '22", "Semester '23", "Semester '24"],
+        "futuredates": ["Fall '21", "Fall/Spring '22", "'23", "'24"],
         "teachabroad": false
     },
     {
@@ -172,7 +172,7 @@
         "cost": "$2000",
         "dates": "March 2023",
         "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredates": ["Spring Break '23", "Spring Break '25"],
+        "futuredates": ["Spring Break '23", "'25"],
         "teachabroad": false
     },
     {
@@ -188,7 +188,7 @@
         "cost": "$2000",
         "dates": "Summer 2021",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredates": ["Summer '21", "Summer '23"],
+        "futuredates": ["Summer '23"],
         "teachabroad": false
     },
     {
@@ -204,7 +204,7 @@
         "cost": "$2500",
         "dates": "Summer 2021",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredates": ["Summer '21", "Summer '23"],
+        "futuredates": ["Summer '23"],
         "teachabroad": false
     },
     {
@@ -220,7 +220,7 @@
         "cost": "$2000",
         "dates": "Summer 2021",
         "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredates": ["Summer '21", "Summer '23"],
+        "futuredates": ["Summer '23"],
         "teachabroad": false
     },
     {
@@ -236,7 +236,7 @@
         "cost": "$1500",
         "dates": "Summer 2021",
         "themes": ["Teach Abroad", "Best Practices in Global Education"],
-        "futuredates": ["Summer '21", "Summer '22", "Summer '23", "Summer '24"],
+        "futuredates": ["Summer '22", "'23", "'24"],
         "teachabroad": true
     },
     {
@@ -252,7 +252,7 @@
         "cost": "$3000",
         "dates": "Summer 2021",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredates": ["Summer '21", "Summer '23"],
+        "futuredates": ["Summer '23"],
         "teachabroad": false
     },
     {
@@ -268,7 +268,7 @@
         "cost": "$2500",
         "dates": "Summer 2022",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities"],
-        "futuredates": ["Summer '22", "Summer '24"],
+        "futuredates": ["Summer '22", "'24"],
         "teachabroad": false
     },
     {
@@ -284,7 +284,7 @@
         "cost": "$2000",
         "dates": "Summer 2022",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredates": ["Summer '22", "Summer '24"],
+        "futuredates": ["Summer '22", "'24"],
         "teachabroad": false
     },
     {
@@ -300,7 +300,7 @@
         "cost": "$2000",
         "dates": "Summer 2022",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredates": ["Summer '22", "Summer '24"],
+        "futuredates": ["Summer '22", "'24"],
         "teachabroad": false
     },
     {
@@ -316,7 +316,7 @@
         "cost": "$500",
         "dates": "Summer 2021",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context", "Teach Abroad"],
-        "futuredates": ["Summer '21"],
+        "futuredates": ["Summer '23"],
         "teachabroad": true
     },
     {
@@ -332,7 +332,7 @@
         "cost": "$2000",
         "dates": "January 2022",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredates": ["Winter '22", "Winter '23", "Winter '24"],
+        "futuredates": ["Winter '22", "'23", "'24"],
         "teachabroad": false
     }
 ]
