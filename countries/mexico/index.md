@@ -39,7 +39,7 @@ Preparing Schools for a Changing Environment
 
 <div id="cost">
 
-Expected Program Cost: $2,000
+Expected Program Cost: $1,000
 Includes: Accommodations, ground travel, most meals, tourist and cultural visits and activities. 
 *Airfare not included
 
@@ -62,10 +62,10 @@ The College of Education will provide qualified students with a $500 scholarship
 
 <div id="faculty">
 
-### Dr. Allison Witt - Course Instructor 
+**Dr. Allison Witt - Course Instructor** 
 Allison Witt is the Director of International Programs in the College of Education at the University of Illinois Urbana-Champaign where she teaches Global Studies in Education and is the Program Leader for the International Education Administration and Leadership program. 
 
-### Armando Torres - Program Coordinator
+**Armando Torres - Program Coordinator**
 
 </div>
 
