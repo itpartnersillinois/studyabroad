@@ -11,11 +11,14 @@
     div.dates {
         text-align: center;
         font-size: 1em;
-        margin-top: 222px;
         background: rgba(255,255,255,.7);
         font-weight: bold;
         font-family: "Montserrat", sans-serif;
         padding: 5px;
+    }
+
+    div.hidden {
+        display: none;
     }
 
     h2 {
@@ -39,7 +42,15 @@
         color: unset;
     }
 
-    a:focus, a:hover {
-        filter: brightness(50%);
+    a:focus div.hidden, a:hover div.hidden {
+        display: block;
+        height: 122px;
+        padding: 30px 10px 70px 10px;
+        text-align: center;
+        background-color: rgba(255, 85, 46, .72);
+    }
+
+    div.hidden p {
+        margin: 5px;
     }
 }

@@ -9,13 +9,17 @@ function search() {
                 var term = document.getElementById('term').value;
                 var theme = document.getElementById('theme').value;
                 var region = document.getElementById('region').value;
-                var show = (term == '' || country.term.includes(term)) && 
+                var show = (term == '' || country.futuredatefilter.includes(term)) && 
                     (theme == '' || country.themes.includes(theme)) && 
                     (region == '' || country.region === region);
                 if (show) {
                     results = results + `<div><h2><a href='/countries/${country.url}/index.html' tabindex=-1>${country.name}</a></h2><a href='/countries/${country.url}/index.html'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
-                    results = results + `<div class='dates'>${country.futuredates.join(', ')}</div></div></a>`;
-                    results = results + `</div>`;
+                    results = results + `<div class='dates'>${country.futuredates.join(', ')}</div><div class='hidden'>`;
+                    results = results + `<p>Deadline to Apply: ${country.deadline}</p>`;
+                    results = results + `<p>Estimated Cost: ${country.cost}</p>`;
+                    results = results + `<p>Credits: ${country.credits}</p>`;
+                    results = results + `<p>Click for more information</p>`;
+                    results = results + `</div></div></a></div>`;
                 }
             });
             document.getElementById('results').innerHTML = results;

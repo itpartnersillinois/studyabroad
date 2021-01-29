@@ -46,6 +46,13 @@ module.exports = (function (eleventyConfig) {
     return returnValue;
   });
 
+  eleventyConfig.addFilter("termdropdown", function (terms) {
+    var returnValue = '';
+    terms.forEach(term => {
+      returnValue = returnValue + `<option value="${term}">${term}</option>`;
+    });
+    return returnValue;
+  });
 
   eleventyConfig.addFilter("menu", function (items) {
     var returnValue = '<ul class="menu-column">';

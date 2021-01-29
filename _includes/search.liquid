@@ -26,9 +26,7 @@
             <label for="term" class="visuallyhidden">Choose a school term</label>
             <select class="term" name="term" id="term">
                 <option value="" selected="">Any Term</option>
-                <option value="semester">Semester</option>
-                <option value="springbreak">Spring Break</option>
-                <option value="summer">Summer Break</option>
+                {{ terms || termdropdown }}
             </select>
             </p>
             <p>
