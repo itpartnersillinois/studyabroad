@@ -17,5 +17,5 @@ Take a virtual SPRING BREAK with the College of Education! Join afternoon and ev
   * **International Cooking with Us**
    Make an Indonesia dinner with ingredients provided!
    
-**Stay tuned for more details!** 
+[Register](https://forms.illinois.edu/sec/902257667){.button}
   
