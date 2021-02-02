@@ -68,5 +68,9 @@
                 "url": "/program-advising/index.html"
             }
         ]
+    },
+    { 
+        "name": "Events",
+        "url": "/events/index.html"
     }
 ]
