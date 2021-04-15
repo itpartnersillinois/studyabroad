@@ -21,32 +21,32 @@ At the College of Education Office of International Programs, we are dedicated t
 
 Our program coordinators are dedicated to assisting students in selecting a program that is the right fit for every student. Feel free to reach out to them with any questions or to schedule a virtual meeting.
 
-## Noor Doukmak - Jordan, Summer 
-Email: doukmak2@illinois.edu
+**Noor Doukmak - Jordan, Summer** 
+**Email:** doukmak2@illinois.edu
 
-**Ana Garner - Greece, Summer
-Email: anaeg3@illinois.edu
+**Ana Garner - Greece, Summer**
+**Email:** anaeg3@illinois.edu
 
-**Mackenzie Gillespie - Costa Rica, Spring Break / Spain, Spring Break
-Email: dankle@illinois.edu
+**Mackenzie Gillespie - Costa Rica, Spring Break / Spain, Spring Break**
+**Email:** dankle@illinois.edu
 
-**Constance Hackler - Ecuador, Summer
-Email: hackler4@illinois.edu
+**Constance Hackler - Ecuador, Summer**
+**Email:** hackler4@illinois.edu
 
-**Leonardus Sudibyo - Indonesia, Summer
-Email: sudibyo2@illinois.edu
+**Leonardus Sudibyo - Indonesia, Summer**
+**Email:** sudibyo2@illinois.edu
 
-**Rachita Rana - India, Summer
-Email: rachita3@illinois.edu
+**Rachita Rana - India, Summer**
+**Email:** rachita3@illinois.edu
 
-**Ananya Tiwari - India, Summer
-Email: ananyat2@illinois.edu
+**Ananya Tiwari - India, Summer**
+**Email:** ananyat2@illinois.edu
 
-**Armando Torres - Mexico, Summer
-Email: ajt7@illinois.edu
+**Armando Torres - Mexico, Summer**
+**Email:** ajt7@illinois.edu
 
-**Larry Washington - Namibia, Summer
-Email: washin8@illinois.edu
+**Larry Washington - Namibia, Summer**
+**Email:** washin8@illinois.edu
 
 
 
