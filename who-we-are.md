@@ -17,35 +17,35 @@ At the College of Education Office of International Programs, we are dedicated t
 ![Wei Liu](/img/people/weiliu1.jpg){.left} Dr. Wei Liu is the Associate Director of International Programs. Dr. Liu teaches CI 499 and EDUC 499 study abroad courses. These courses introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts. 
 
 
-## Program Coordinators
+### Program Coordinators
 
 Our program coordinators are dedicated to assisting students in selecting a program that is the right fit for every student. Feel free to reach out to them with any questions or to schedule a virtual meeting.
 
 ## Noor Doukmak - Jordan, Summer 
 Email: doukmak2@illinois.edu
 
-# Ana Garner - Greece, Summer
+**Ana Garner - Greece, Summer
 Email: anaeg3@illinois.edu
 
-# Mackenzie Gillespie - Costa Rica, Spring Break / Spain, Spring Break
+**Mackenzie Gillespie - Costa Rica, Spring Break / Spain, Spring Break
 Email: dankle@illinois.edu
 
-# Constance Hackler - Ecuador, Summer
+**Constance Hackler - Ecuador, Summer
 Email: hackler4@illinois.edu
 
-# Leonardus Sudibyo - Indonesia, Summer
+**Leonardus Sudibyo - Indonesia, Summer
 Email: sudibyo2@illinois.edu
 
-# Rachita Rana - India, Summer
+**Rachita Rana - India, Summer
 Email: rachita3@illinois.edu
 
-# Ananya Tiwari - India, Summer
+**Ananya Tiwari - India, Summer
 Email: ananyat2@illinois.edu
 
-# Armando Torres - Mexico, Summer
+**Armando Torres - Mexico, Summer
 Email: ajt7@illinois.edu
 
-# Larry Washington - Namibia, Summer
+**Larry Washington - Namibia, Summer
 Email: washin8@illinois.edu
 
 
