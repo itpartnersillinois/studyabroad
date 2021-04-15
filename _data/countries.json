@@ -90,6 +90,21 @@
         "futuredates": ["Spring Break '22","'23"]
     },
     {
+        "name": "Italy - Incoming Freshmen",
+        "url": "italy-freshmen",
+        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "imageurl": "italy.jpg",
+        "bannerimageurl": "italy_banner.jpg",
+        "region": "europe",
+        "deadline": "TBA",
+        "credits": "N/A",
+        "cost": "TBA",
+        "dates": "Summer 2022",
+        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
+        "futuredatefilter": ["Summer 2022", "Summer 2023"],
+        "futuredates": ["Summer '22","'23"]
+    },
+    {
         "name": "Italy Semester",
         "url": "italy-semester",
         "learnmore": "https://forms.illinois.edu/sec/949661",
