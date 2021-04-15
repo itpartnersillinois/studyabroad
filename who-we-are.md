@@ -16,9 +16,9 @@ At the College of Education Office of International Programs, we are dedicated t
 
 ![Wei Liu](/img/people/weiliu1.jpg){.left} Dr. Wei Liu is the Associate Director of International Programs. Dr. Liu teaches CI 499 and EDUC 499 study abroad courses. These courses introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts. 
 
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
