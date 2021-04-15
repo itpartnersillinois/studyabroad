@@ -22,6 +22,24 @@ All eligible students who are admitted to, and enrolled in, a University of Illi
 3. Once you’ve enrolled in the study abroad course, scholarship funds will be deposited directly into your student account.
 4. If you have any questions, please contact the Office of International Programs at international@education.illinois.edu.
 
+## Education Abroad Scholarship Award 
+
+Established through donations from college alumni, this scholarship recognizes outstanding undergraduate and graduate students, particular those with financial need, and defrays the costs associated with studying abroad on University of Illinois College of Education sponsored programs. 
+
+Education Abroad Scholarship Award amounts are based on available funds, program costs, length of travel, and financial need eligibility as documented through the University of Illinois' Office of Student Financial Aid. Award amounts range from $500 to $3,000. Applicants are notified of the award decision and scholarship project via email. The award will typically be given during the term the student is abroad.
+
+Scholarship recipients are expected to:
+* Complete the assigned fellowship project and submit in EDUC 199/499
+* Donate 4 hours sharing about the experience at OIP-approved campus events
+
+## Mentor Educator Award
+
+Established through donations from college alumni, this award recognizes outstanding alumni of the College of Education and supports their participation in study abroad on University of Illinois College of Education sponsored programs. During the study abroad program, Mentor Educators will join discussions, share reflections, and support the development of global perspectives in education for undergraduate and graduate student participants during the travel portion of study abroad. Mentor Educators may participate in additional graduate coursework for professional development or graduate credit. 
+
+Award recipients are expected to:
+* Attend all academic activities while abroad and engage with participating students
+* Donate 4 hours sharing about the experience at OIP-approved campus events, school events, or in other approved ways.
+
 ## Global Intersection Fellowship for Teachers
 
 The College of Education recognizes the value of practicing teachers in our community and across the U.S., and offers current, licensed K-12 teachers the opportunity to receive funding for an Education Abroad program of their choice. GIFT applicants may request up to $1,500 in study abroad funding. 
