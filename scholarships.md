@@ -32,6 +32,8 @@ Scholarship recipients are expected to:
 * Complete the assigned fellowship project and submit in EDUC 199/499
 * Donate 4 hours sharing about the experience at OIP-approved campus events
 
+[Apply Here](https://forms.illinois.edu/sec/567617119){.button}
+
 ## Mentor Educator Award
 
 Established through donations from college alumni, this award recognizes outstanding alumni of the College of Education and supports their participation in study abroad on University of Illinois College of Education sponsored programs. During the study abroad program, Mentor Educators will join discussions, share reflections, and support the development of global perspectives in education for undergraduate and graduate student participants during the travel portion of study abroad. Mentor Educators may participate in additional graduate coursework for professional development or graduate credit. 
