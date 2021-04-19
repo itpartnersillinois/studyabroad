@@ -42,6 +42,8 @@ Award recipients are expected to:
 * Attend all academic activities while abroad and engage with participating students
 * Donate 4 hours sharing about the experience at OIP-approved campus events, school events, or in other approved ways.
 
+[Apply Here] (https://forms.illinois.edu/sec/776446397){.button}
+
 ## Global Intersection Fellowship for Teachers
 
 The College of Education recognizes the value of practicing teachers in our community and across the U.S., and offers current, licensed K-12 teachers the opportunity to receive funding for an Education Abroad program of their choice. GIFT applicants may request up to $1,500 in study abroad funding. 
