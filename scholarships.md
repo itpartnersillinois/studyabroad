@@ -50,7 +50,7 @@ In order to be considered for the GIFT scholarship, teachers must submit both an
 
 The GIFT Scholarship is funded in part by a grant from the Department of Education Title VI program.
 * [Gift Application](https://forms.illinois.edu/sec/965420904){.button}
-* [Recommendation Form](https://form.jotformeu.com/82594741106357)
+* [Recommendation Form](https://forms.illinois.edu/sec/2129804469){.button}
 
 ## Financial Aid
 Because this program is sponsored by the University of Illinois, financial aid can be applied to the cost of the program. The amount of financial aid that is applicable to your program will depend on your financial aid package. Because there are many variables that determine your financial aid package, it is best that you consult with a financial aid advisor in the [Office of Student Financial Aid](https://www.osfa.illinois.edu/) to discuss your individual financial aid package. 
