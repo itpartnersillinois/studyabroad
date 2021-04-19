@@ -49,7 +49,7 @@ The College of Education recognizes the value of practicing teachers in our comm
 In order to be considered for the GIFT scholarship, teachers must submit both an application and a recommendation form from either: other teachers, administrators, academic coaches, and/or professors. Both forms are linked below. 
 
 The GIFT Scholarship is funded in part by a grant from the Department of Education Title VI program.
-* [Gift Application](https://form.jotformeu.com/82713110306342)
+* [Gift Application](https://forms.illinois.edu/sec/965420904){.button}
 * [Recommendation Form](https://form.jotformeu.com/82594741106357)
 
 ## Financial Aid
