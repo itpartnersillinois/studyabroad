@@ -1,6 +1,6 @@
 ---
 layout: main.liquid
-pageTitle: Education Early Abroad: Italy 2022
+pageTitle: Education Early Abroad&#58; Italy 2022
 headerImage: /img/header/globe.jpg
 ---
 
