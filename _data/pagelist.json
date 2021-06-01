@@ -44,6 +44,10 @@
         "url": "/how-to-apply/index.html",
         "pages": [
             {
+                "name": "Education Abroad Program",
+                "url": "/education_abroad/index.html"
+            },
+            {
                 "name": "Registration & Course Information",
                 "url": "/registration/index.html"
             },
