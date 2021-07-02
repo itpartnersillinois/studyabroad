@@ -9,9 +9,9 @@ headerImage: /img/header/globe.jpg
 This eight-week pre-college program will introduce admitted Education students to the College of Education faculty, staff and students and at the same time, introduce global education practices that have influenced education in the US. Students will participate in an online credited course, spend 3 days on campus, followed by a two week field work experience in Italy. 
 
 ### Sign up for one of our informational webinars to learn more: 
-Tuesday, September 7, 2021 6-7pm 
-Wednesday, October 13, 2021 6-7pm 
-Thursday, November 4, 2021 6-7pm
+* [Tuesday, September 7, 2021 6-7pm](https://enroll.illinois.edu/register/edu)
+* [Wednesday, October 13, 2021 6-7pm](https://enroll.illinois.edu/register/edu2) 
+* [Thursday, November 4, 2021 6-7pm](https://enroll.illinois.edu/register/edu3)
 
 ### 6-weeks before traveling to Italy:
 
