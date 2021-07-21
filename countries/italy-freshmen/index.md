@@ -1,6 +1,6 @@
 ---
 layout: country.liquid
-url: italy
+url: italy-freshmen
 pageTitle: Italy
 learnMore: "https://forms.illinois.edu/sec/949661"
 information: To edit the header, please go to the _data/countries.json file and edit the information there
