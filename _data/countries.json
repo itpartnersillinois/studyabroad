@@ -6,13 +6,13 @@
         "imageurl": "finland.jpg",
         "bannerimageurl": "finland_banner.jpg",
         "region": "europe",
-        "deadline": "February 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "March 2022",
+        "dates": "TBA",
         "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Spring Break 2022"],
-        "futuredates": ["Spring Break '22"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "Mexico",
@@ -21,13 +21,13 @@
         "imageurl": "ecuador.jpg",
         "bannerimageurl": "ecuador_banner.jpg",
         "region": "centralamerica",
-        "deadline": "February 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "March 2022",
+        "dates": "TBA",
         "themes": [],
-        "futuredatefilter": ["Spring Break 2022", "Spring Break 2024"],
-        "futuredates": ["Spring Break '22, '24"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "France",
@@ -36,13 +36,13 @@
         "imageurl": "france.jpg",
         "bannerimageurl": "france_banner.jpg",
         "region": "europe",
-        "deadline": "April 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2022",
+        "dates": "TBA",
         "themes": ["Teach Abroad", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer 2022", "Summer 2023", "Summer 2024"],
-        "futuredates": ["Summer '22", "'23", "'24"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Spain",
@@ -51,13 +51,13 @@
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
-        "deadline": "February 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "March 2022",
+        "dates": "TBA",
         "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break 2022", "Spring Break 2024"],
-        "futuredates": ["Spring Break '22", "'24"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "Spain Semester",
@@ -81,13 +81,13 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "February 1, 2022",
+        "deadline": "N/A",
         "credits": "N/A",
         "cost": "$2000",
-        "dates": "March 2022",
+        "dates": "TBA",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break 2022", "Spring Break 2023"],
-        "futuredates": ["Spring Break '22","'23"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "Italy - Incoming Freshmen",
@@ -96,13 +96,13 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "TBA",
+        "deadline": "N/A",
         "credits": "N/A",
-        "cost": "TBA",
-        "dates": "Summer 2022",
+        "cost": "$2000",
+        "dates": "TBA",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer 2022", "Summer 2023"],
-        "futuredates": ["Summer '22","'23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Italy Semester",
@@ -141,13 +141,13 @@
         "imageurl": "ireland.jpg",
         "bannerimageurl": "ireland_banner.jpg",
         "region": "europe",
-        "deadline": "February 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "March 2023",
+        "dates": "TBA",
         "themes": [],
-        "futuredatefilter": ["Spring Break 2023"],
-        "futuredates": ["Spring Break '23"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "Costa Rica Semester",
@@ -156,7 +156,7 @@
         "imageurl": "costarica.jpg",
         "bannerimageurl": "costarica_banner.jpg",
         "region": "centralamerica",
-        "deadline": "September 1, 2021",
+        "deadline": "N/A",
         "credits": "N/A",
         "cost": "$13,500",
         "dates": "Spring 2022",
@@ -171,13 +171,13 @@
         "imageurl": "costarica.jpg",
         "bannerimageurl": "costarica_banner.jpg",
         "region": "centralamerica",
-        "deadline": "February 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "March 2023",
+        "dates": "TBA",
         "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredatefilter": ["Spring Break 2023", "Spring Break 2025"],
-        "futuredates": ["Spring Break '23", "'25"]
+        "futuredatefilter": ["Spring Break"],
+        "futuredates": ["Spring Break"]
     },
     {
         "name": "Japan / Taiwan",
@@ -186,13 +186,13 @@
         "imageurl": "japan.jpg",
         "bannerimageurl": "japan_banner.jpg",
         "region": "asia",
-        "deadline": "April 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2023",
+        "dates": "TBA",
         "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer 2023"],
-        "futuredates": ["Summer '23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "India",
@@ -201,13 +201,13 @@
         "imageurl": "india.jpg",
         "bannerimageurl": "india_banner.jpg",
         "region": "asia",
-        "deadline": "April 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2500",
-        "dates": "Summer 2023",
+        "dates": "TBA",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer 2023"],
-        "futuredates": ["Summer '23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Ecuador",
@@ -216,13 +216,13 @@
         "imageurl": "ecuador.jpg",
         "bannerimageurl": "ecuador_banner.jpg",
         "region": "southamerica",
-        "deadline": "April 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2023",
+        "dates": "TBA",
         "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredatefilter": ["Summer 2023"],
-        "futuredates": ["Summer '23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Singapore",
@@ -231,13 +231,13 @@
         "imageurl": "singapore.jpg",
         "bannerimageurl": "singapore_banner.jpg",
         "region": "asia",
-        "deadline": "April 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$1500",
-        "dates": "Summer 2022",
+        "dates": "TBA",
         "themes": ["Teach Abroad", "Best Practices in Global Education"],
-        "futuredatefilter": ["Summer 2022", "Summer 2023", "Summer 2024"],
-        "futuredates": ["Summer '22", "'23", "'24"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Tanzania",
@@ -246,13 +246,13 @@
         "imageurl": "tanzania.jpg",
         "bannerimageurl": "tanzania_banner.jpg",
         "region": "africa",
-        "deadline": "April 1, 2023",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$3000",
-        "dates": "Summer 2023",
+        "dates": "TBA",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer 2023"],
-        "futuredates": ["Summer '23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Indonesia",
@@ -261,13 +261,13 @@
         "imageurl": "indonesia.jpg",
         "bannerimageurl": "indonesia_banner.jpg",
         "region": "asia",
-        "deadline": "April 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2500",
-        "dates": "Summer 2022",
+        "dates": "TBA",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer 2022", "Summer 2024"],
-        "futuredates": ["Summer '22", "'24"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Namibia",
@@ -276,13 +276,13 @@
         "imageurl": "namibia.jpg",
         "bannerimageurl": "namibia_banner.jpg",
         "region": "africa",
-        "deadline": "April 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2022",
+        "dates": "TBA",
         "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer 2022", "Summer 2024"],
-        "futuredates": ["Summer '22", "'24"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Greece",
@@ -291,13 +291,13 @@
         "imageurl": "greece.jpg",
         "bannerimageurl": "greece_banner.jpg",
         "region": "europe",
-        "deadline": "April 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2022",
+        "dates": "TBA",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer 2022", "Summer 2024"],
-        "futuredates": ["Summer '22", "'24"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Jordan",
@@ -306,13 +306,13 @@
         "imageurl": "jordan.jpg",
         "bannerimageurl": "jordan.jpg",
         "region": "asia",
-        "deadline": "December 20, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$500",
-        "dates": "Summer 2023",
+        "dates": "TBA",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context", "Teach Abroad"],
-        "futuredatefilter": ["Summer 2023"],
-        "futuredates": ["Summer '23"]
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
     },
     {
         "name": "Hong Kong / Macau",
@@ -321,12 +321,12 @@
         "imageurl": "hongkong-macau.jpg",
         "bannerimageurl": "hongkong-macau_banner.jpg",
         "region": "asia",
-        "deadline": "October 28, 2021",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "January 2022",
+        "dates": "TBA",
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredatefilter": ["Winter 2021", "Winter 2022", "Winter 2023", "Winter 2024"],
-        "futuredates": ["Winter '21", "'22", "'23", "'24"]
+        "futuredatefilter": ["Winter"],
+        "futuredates": ["Winter"]
     }
 ]
