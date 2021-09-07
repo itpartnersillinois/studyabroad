@@ -6,16 +6,16 @@ headerImage: /img/header/globe.jpg
 See below for upcoming events hosted, sponsored, or suggested by the Office of International Programs. 
 
 ### Upcoming Events
-**Education Global Getaway - February 17** 
+**Spring Study Abroad Info Session - September 10, 1 pm** 
   
-Take a virtual SPRING BREAK with the College of Education! Join afternoon and evening activities for you and your friends, learn about upcoming study abroad, meet international teachers, visit classrooms abroad, and join us to cook an international feast. 
-  * **Teacher's Panel: Surviving the Pandemic** 
-  Hear the story from teachers in Uganda, Iran, U.S., Italy, Sweden, etc. 
-  * **Study Abroad Information Sesion**
-  Get the latest and useful information about study abroad programs for each grade
-  * **Global Classroom Virtual Visits**
-  * **International Cooking with Us**
-   Make an Indonesia dinner with ingredients provided!
+ Join us and learn about upcoming study abroad and scholarship options in the spring and summer of 2022 with the College of Education! 
+  
    
-[Register](https://forms.illinois.edu/sec/902257667){.button}
-  
+[Zoom](https://illinois.zoom.us/j/87143916060?pwd=NFI1clNNQ050eXBENUp3YVZUWGpRdz09){.button}
+
+
+**Study Abroad Office Hours - every Wendesday/Friday noon** 
+
+Drop in and ask any questions you have about study abroad! 
+
+[Zoom](https://illinois.zoom.us/j/89065820744?pwd=b1Rqc25NWi81VFNIWHJYdU5CU1l6UT09){.button}
