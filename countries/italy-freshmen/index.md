@@ -6,7 +6,7 @@ learnMore: "https://forms.illinois.edu/sec/949661"
 information: To edit the header, please go to the _data/countries.json file and edit the information there
 ---
 
-## Illinois Introduction - Education Abroad Program
+## Illinois Introduction - Early Abroad Program
 
 This eight-week summer program will introduce admitted Education students to the College of Education faculty, staff, and students and at the same time introduce global education practices that have influenced education in the U.S. Students will participate in an online credited course, spend 3 days on campus, followed by a two-week field work experience in Italy.
 
