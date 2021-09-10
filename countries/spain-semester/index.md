@@ -85,7 +85,7 @@ Because this program is sponsored by the University of Illinois, financial aid c
 
 <div id="scholarship">
 
-The College of Education will provide qualified students with a $500 scholarship for studying abroad. Please plan to budget for additional expenses such as: Transportation, Thank you gifts for your home stay family and teachers (if applicable), Tourist activities, and other incidentals.
+The College of Education will provide qualified students with a scholarship for studying abroad based on finacial needs or academic excellency. Please plan to budget for additional expenses such as: Transportation, Thank you gifts for your home stay family and teachers (if applicable), Tourist activities, and other incidentals.
 
 [College of Education Scholarships](https://education.illinois.edu/international/scholarships){.button}
 
