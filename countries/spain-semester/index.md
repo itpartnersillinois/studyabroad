@@ -2,7 +2,7 @@
 layout: country.liquid
 url: spain-semester
 pageTitle: Spain Semester
-learnMore: "https://forms.illinois.edu/sec/949661"
+Apply: "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ProgramDiscovery&search=EDUC+Spring%20Semester"
 information: To edit the header, please go to the _data/countries.json file and edit the information there
 ---
 
