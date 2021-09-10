@@ -62,7 +62,7 @@
     {
         "name": "Spain Semester",
         "url": "spain-semester",
-        "apply": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ProgramDiscovery&search=EDUC+Spring%20Semester",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ProgramDiscovery&search=EDUC+Spring%20Semester",
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
