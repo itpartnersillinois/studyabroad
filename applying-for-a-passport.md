@@ -22,12 +22,6 @@ Champaign, IL 61821
 (217) 373-6018
 Mon-Fri: 10:00am - 5:00pm
 
-Champaign County Circuit Court Clerk
-101 E. Main St. 
-Urbana, IL 61801
-(217)384-3726
-Mon-Fri: 8:00am - 4:30pm
-
 Urbana Post Office
 3100 E. Tatman Ct. 
 Urbana, IL 61802
