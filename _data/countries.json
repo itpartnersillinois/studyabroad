@@ -15,6 +15,37 @@
         "futuredates": ["Spring Break"]
     },
     {
+        "name": "Panama",
+        "url": "Panama",
+        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "imageurl": "finland.jpg",
+        "bannerimageurl": "finland_banner.jpg",
+        "region": "centralamerica",
+        "deadline": "March 31,2022",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "Summer",
+        "themes": ["Best Practices in Global Education"],
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
+    },
+    {
+        "name": "Italy Summer",
+        "url": "italy-summer",
+        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "imageurl": "finland.jpg",
+        "bannerimageurl": "finland_banner.jpg",
+        "region": "europe",
+        "deadline": "March 31,2022",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "Summer",
+        "themes": ["Best Practices in Global Education"],
+        "futuredatefilter": ["Summer"],
+        "futuredates": ["Summer"]
+    },
+    
+    {
         "name": "Mexico",
         "url": "mexico",
         "learnmore": "https://forms.illinois.edu/sec/949661",
