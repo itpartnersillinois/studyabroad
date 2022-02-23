@@ -16,8 +16,8 @@
     },
     {
         "name": "Panama",
-        "url": "Panama",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
         "imageurl": "finland.jpg",
         "bannerimageurl": "finland_banner.jpg",
         "region": "centralamerica",
@@ -31,8 +31,8 @@
     },
     {
         "name": "Italy Summer",
-        "url": "italy-summer",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
         "imageurl": "finland.jpg",
         "bannerimageurl": "finland_banner.jpg",
         "region": "europe",
