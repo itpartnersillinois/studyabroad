@@ -13,7 +13,11 @@ function search() {
                     (theme == '' || country.themes.includes(theme)) && 
                     (region == '' || country.region === region);
                 if (show) {
-                    results = results + `<div><h2><a href='/countries/${country.url}/index.html' tabindex=-1>${country.name}</a></h2><a href='/countries/${country.url}/index.html'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
+                    if (country.url.startsWith('http')) {
+                        results = results + `<div><h2><a href='${country.url}' tabindex=-1>${country.name}</a></h2><a href='${country.url}'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
+                    } else {
+                        results = results + `<div><h2><a href='/countries/${country.url}/index.html' tabindex=-1>${country.name}</a></h2><a href='/countries/${country.url}/index.html'><div class='image' style='background-image: url(/img/country/${country.imageurl})'>`;
+                    }
                     results = results + `<div class='dates'>${country.futuredates.join(', ')}</div><div class='hidden'>`;
                     results = results + `<p>Deadline to Apply: ${country.deadline}</p>`;
                     results = results + `<p>Estimated Cost: ${country.cost}</p>`;
