@@ -22,3 +22,5 @@ The course is structured in three parts:
 | Spring Break | GFR, GSP, GCR, GIT	  | TBD         | TBD         | 4           |
 | Summer       |                      | TBD         | TBD         | 3           |
 | Summer       |                      | TBD         | TBD         | 4           |
+
+All of our Education Abroad programs are associated with a six-week, online course: EDUC 499
