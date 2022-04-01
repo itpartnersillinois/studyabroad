@@ -3,7 +3,7 @@ layout: main.liquid
 pageTitle: Scholarships and Financial Aid
 headerImage: /img/header/globe.jpg
 ---
-Additional campus-wide scholarships available on the [Education Abroad website](https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/scholarships/index.html)
+Additional campus-wide scholarships are available on the [Education Abroad website](https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/scholarships/index.html)
 
 For each study abroad program, the CoE Scholarship deadline is the same as the program deadline
 
