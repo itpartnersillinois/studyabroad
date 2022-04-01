@@ -2,10 +2,12 @@
     { 
         "name": "Program Search",
         "url": "/program-search/index.html"
-    },
-    { 
-        "name": "Program Themes",
-        "url": "/program-themes/index.html"
+        "pages": [
+            {
+                "name": "Program Themes",
+                "url": "/program-themes/index.html"
+            }
+        ]
     },
     { 
         "name": "Why With Us",
