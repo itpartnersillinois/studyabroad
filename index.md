@@ -3,7 +3,8 @@ layout: home.liquid
 pageTitle: Home
 ---
 ## Study Abroad with COE
-Education abroad is a powerful step towards building your own familiarity with other cultures, improving your own teaching practice, and developing your own global network of colleagues that can support you as a teacher.
+Education abroad is a powerful step towards building your own familiarity with other cultures, improving your own teaching practice, and developing your own global network of colleagues that can support you as a teacher. Explore our study abroad programs at College of Education and visit the campus wide 
+[Education Abroad website](https://studyabroad.illinois.edu) which is your one-stop shop for campus wide resources related to study abroad and global learning. Explore all aspects of the study abroad process, planning materials for budgets and financial aid, applying for scholarships, and resources to support you before, during, and after your experience.
 
 ### Research-Based And Education-Driven Curricula
 The University of Illinois College of Education has designed programs for education majors that are research-based, education curriculum driven, and train you to translate your education abroad experience into skills you need to teach future generations in our diverse global society.
