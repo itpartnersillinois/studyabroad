@@ -1,19 +1,4 @@
-[
-    {
-        "name": "Finland / Estonia",
-        "url": "finland-estonia",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "finland.jpg",
-        "bannerimageurl": "finland_banner.jpg",
-        "region": "europe",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
-    },
+   },
     {
         "name": "Panama",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
@@ -42,24 +27,7 @@
         "dates": "Summer",
         "themes": ["Best Practices in Global Education"],
         "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    
-    {
-        "name": "Mexico",
-        "url": "mexico",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "ecuador.jpg",
-        "bannerimageurl": "ecuador_banner.jpg",
-        "region": "centralamerica",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": [],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
-    },
+   
     {
         "name": "France",
         "url": "france",
@@ -226,36 +194,6 @@
         "futuredates": ["Summer"]
     },
     {
-        "name": "India",
-        "url": "india",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "india.jpg",
-        "bannerimageurl": "india_banner.jpg",
-        "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2500",
-        "dates": "TBA",
-        "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
-        "name": "Ecuador",
-        "url": "ecuador",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "ecuador.jpg",
-        "bannerimageurl": "ecuador_banner.jpg",
-        "region": "southamerica",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
         "name": "Singapore",
         "url": "singapore",
         "learnmore": "https://forms.illinois.edu/sec/949661",
@@ -267,21 +205,6 @@
         "cost": "$1500",
         "dates": "TBA",
         "themes": ["Teach Abroad", "Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
-        "name": "Tanzania",
-        "url": "tanzania",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "tanzania.jpg",
-        "bannerimageurl": "tanzania_banner.jpg",
-        "region": "africa",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$3000",
-        "dates": "TBA",
-        "themes": ["Resilience in Schools to (Re)Build Communities"],
         "futuredatefilter": ["Summer"],
         "futuredates": ["Summer"]
     },
@@ -299,65 +222,5 @@
         "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities"],
         "futuredatefilter": ["Summer"],
         "futuredates": ["Summer"]
-    },
-    {
-        "name": "Namibia",
-        "url": "namibia",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "namibia.jpg",
-        "bannerimageurl": "namibia_banner.jpg",
-        "region": "africa",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
-        "name": "Greece",
-        "url": "greece",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "greece.jpg",
-        "bannerimageurl": "greece_banner.jpg",
-        "region": "europe",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
-        "name": "Jordan",
-        "url": "jordan",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "jordan.jpg",
-        "bannerimageurl": "jordan.jpg",
-        "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$500",
-        "dates": "TBA",
-        "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context", "Teach Abroad"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-    },
-    {
-        "name": "Hong Kong / Macau",
-        "url": "hongkong-macau",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "hongkong-macau.jpg",
-        "bannerimageurl": "hongkong-macau_banner.jpg",
-        "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities", "Historical Depth and Context"],
-        "futuredatefilter": ["Winter"],
-        "futuredates": ["Winter"]
-    }
-]
+   
+  
