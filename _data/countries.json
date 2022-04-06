@@ -1,18 +1,45 @@
-   [
+[
     {
         "name": "Panama",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
-        "imageurl": "finland.jpg",
-        "bannerimageurl": "finland_banner.jpg",
+        "imageurl": "panama.jpg",
+        "bannerimageurl": "panama_banner.jpg",
         "region": "centralamerica",
-        "deadline": "April 15,2022",
+        "deadline": "March 31,2022",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2022",
-        "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "dates": "Summer",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
+    },
+    {
+        "name": "Panama Semester",
+        "url": "",
+        "learnmore": "",
+        "imageurl": "panama.jpg",
+        "bannerimageurl": "panama_banner.jpg",
+        "region": "centralamerica",
+        "deadline": "",
+        "credits": "",
+        "cost": "",
+        "dates": "",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            ""
+        ],
+        "futuredates": [
+            ""
+        ]
     },
     {
         "name": "Italy Summer",
@@ -24,10 +51,13 @@
         "deadline": "March 31,2022",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Summer 2022",
-        "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "dates": "Summer",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ]
     },
     {
         "name": "Spain",
@@ -36,13 +66,21 @@
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
-        "deadline": "December 1, 2022",
+        "deadline": "N/A",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "Spring Break 2023",
-        "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
+        "dates": "TBA",
+        "themes": [
+            "Citizenship in a Global Era",
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Spring Break"
+        ],
+        "futuredates": [
+            "Spring Break"
+        ]
     },
     {
         "name": "Spain Semester",
@@ -51,13 +89,28 @@
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
-        "deadline": "October 15, 2022",
+        "deadline": "September 15, 2021",
         "credits": "N/A",
         "cost": "$13,500",
-        "dates": "Spring Semester 2023",
-        "themes": [],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "dates": "Spring 2022",
+        "themes": [
+            "Citizenship in a Global Era",
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring '22",
+            "'23",
+            "'24"
+        ]
     },
     {
         "name": "Italy",
@@ -66,13 +119,20 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "December 1, 2022",
-        "credits": "3-4",
+        "deadline": "N/A",
+        "credits": "N/A",
         "cost": "$2000",
-        "dates": "Spring Break 2023",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
+        "dates": "TBA",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Spring Break"
+        ],
+        "futuredates": [
+            "Spring Break"
+        ]
     },
     {
         "name": "Italy - Early Abroad",
@@ -85,9 +145,16 @@
         "credits": "3",
         "cost": "$3500",
         "dates": "TBA",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
     },
     {
         "name": "Italy Semester",
@@ -96,13 +163,27 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "October 15, 2022",
+        "deadline": "September 15, 2021",
         "credits": "N/A",
         "cost": "$13,500",
-        "dates": "Spring Semester 2023",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "dates": "Spring 2022",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring '22",
+            "'23",
+            "'24"
+        ]
     },
     {
         "name": "Ireland Semester",
@@ -111,13 +192,24 @@
         "imageurl": "ireland.jpg",
         "bannerimageurl": "ireland_banner.jpg",
         "region": "europe",
-        "deadline": "October 15, 2022",
+        "deadline": "September 1, 2021",
         "credits": "N/A",
         "cost": "$13,500",
-        "dates": "Spring Semester 2023",
+        "dates": "Spring 2022",
         "themes": [],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring '22",
+            "'23",
+            "'24"
+        ]
     },
     {
         "name": "Japan",
@@ -126,13 +218,64 @@
         "imageurl": "japan.jpg",
         "bannerimageurl": "japan_banner.jpg",
         "region": "asia",
-        "deadline": "October 15, 2022",
-        "credits": "N/A",
-        "cost": "TBA",
-        "dates": "Spring Semester 2023",
-        "themes": [],
-        "futuredatefilter": ["Spring"],
-        "futuredates": ["Spring '23"]
+        "deadline": "N/A",
+        "credits": "3-4 hours",
+        "cost": "$2000",
+        "dates": "TBA",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
+    },
+    {
+        "name": "Ghana",
+        "url": "ghana",
+        "learnmore": "",
+        "imageurl": "",
+        "bannerimageurl": "",
+        "region": "africa",
+        "deadline": "",
+        "credits": "",
+        "cost": "",
+        "dates": "",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            ""
+        ],
+        "futuredates": [
+            ""
+        ]
+    },
+    {
+        "name": "Taiwan",
+        "url": "taiwan",
+        "learnmore": "",
+        "imageurl": "",
+        "bannerimageurl": "",
+        "region": "asia",
+        "deadline": "",
+        "credits": "",
+        "cost": "",
+        "dates": "",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            ""
+        ],
+        "futuredates": [
+            ""
+        ]
     },
     {
         "name": "Singapore",
@@ -141,27 +284,41 @@
         "imageurl": "singapore.jpg",
         "bannerimageurl": "singapore_banner.jpg",
         "region": "asia",
-        "deadline": "October 15, 2022",
-        "credits": "N/A",
-        "cost": "TBA",
-        "dates": "Spring Semester 2023",
-        "themes": [],
-        "futuredatefilter": ["Spring"],
-        "futuredates": ["Spring"]
+        "deadline": "N/A",
+        "credits": "3-4 hours",
+        "cost": "$1500",
+        "dates": "TBA",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
     },
     {
-        "name": "Indonesia",
-        "url": "indonesia",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "indonesia.jpg",
-        "bannerimageurl": "indonesia_banner.jpg",
-        "region": "asia",
-        "deadline": "March 15, 2023",
-        "credits": "3-4 hours",
-        "cost": "$2500",
-        "dates": "Summer 2023",
-        "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"] 
+        "name": "Egypt",
+        "url": "egypt",
+        "learnmore": "",
+        "imageurl": "",
+        "bannerimageurl": "",
+        "region": "africa",
+        "deadline": "",
+        "credits": "",
+        "cost": "",
+        "dates": "",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            ""
+        ],
+        "futuredates": [
+            ""
+        ]
     }
 ]
