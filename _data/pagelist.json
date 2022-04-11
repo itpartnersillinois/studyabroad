@@ -2,13 +2,23 @@
     { 
         "name": "Program Search",
         "url": "/program-search/index.html"
+        "pages": [
+            {
+                "name": "Search By Location",
+                "url": "/program-search/index.html"
+            },
+            {
+                "name": "Search By Themes",
+                "url": "/program-themes/index.html"
+            },
+           {
+                "name": "Education Abroad Program",
+                "url": "/education_abroad/index.html"
+            }
+        ]
     },
     { 
-        "name": "Program Themes",
-        "url": "/program-themes/index.html"
-    },
-    { 
-        "name": "Why With Us",
+        "name": "Contact",
         "url": "/why-with-us/index.html",
         "pages": [
             {
@@ -23,37 +33,34 @@
         "pages": [
             {
                 "name": "Safety & Security",
-                "url": "/safety-security/index.html"
+                "url": " https://safetyabroad.illinois.edu/"
             },
             {
-                "name": "Applying For a Passport",
-                "url": "/applying-for-a-passport/index.html"
-            },
-            {
-                "name": "Visa Information",
-                "url": "/visa-information/index.html"
+                "name": "Passports and Visas",
+                "url": "https://www.studyabroad.illinois.edu/resources/passports-visas/index.html"
             },
             {
                 "name": "Homestays",
                 "url": "/homestays/index.html"
+            },
+            {
+                "name":"Advice and Tools",
+                "url":"https://www.studyabroad.illinois.edu/resources/advice-tools/index.html"
             }
         ]
     },
     { 
         "name": "How To Apply",
         "url": "/how-to-apply/index.html",
-        "pages": [
+        "pages": 
+           [
             {
-                "name": "Education Abroad Program",
-                "url": "/education_abroad/index.html"
-            },
-            {
-                "name": "Registration & Course Information",
+                "name": "Registration & Course Information EDUC 499",
                 "url": "/registration/index.html"
             },
             {
                 "name": "Semester Course Approvals",
-                "url": "/semester-course-approvals/index.html"
+                "url": "https://www.studyabroad.illinois.edu/outgoing-students/course-approvals/college-instructions/education/index.html"
             },
             {
                 "name": "Scholarships and Financial Aid",
@@ -61,11 +68,11 @@
             },
             {
                 "name": "Billing",
-                "url": "/billing/index.html"
+                "url": "https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/billing/index.html"
             },
             {
                 "name": "Withdrawal",
-                "url": "/withdrawal/index.html"
+                "url": "https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/withdrawals/index.html"
             },
             {
                 "name": "Program Advising",
@@ -75,6 +82,6 @@
     },
     { 
         "name": "Events",
-        "url": "/events/index.html"
+        "url": " https://calendars.illinois.edu/list/7192"
     }
 ]

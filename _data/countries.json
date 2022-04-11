@@ -1,22 +1,49 @@
-   },
+[
     {
-        "name": "Panama",
+        "name": "Panama Summer",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11837",
-        "imageurl": "finland.jpg",
-        "bannerimageurl": "finland_banner.jpg",
+        "imageurl": "panama.jpg",
+        "bannerimageurl": "panama_banner.jpg",
         "region": "centralamerica",
         "deadline": "March 31,2022",
         "credits": "3-4 hours",
         "cost": "$2000",
         "dates": "Summer",
-        "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
+    },
+    {
+        "name": "Panama Semester",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11853",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11853",
+        "imageurl": "panama.jpg",
+        "bannerimageurl": "panama_banner.jpg",
+        "region": "centralamerica",
+        "deadline": "October 14, 2022",
+        "credits": "varies",
+        "cost": "varies",
+        "dates": "Spring Semester 2023",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Spring"
+        ],
+        "futuredates": [
+            "Spring"
+        ]
     },
     {
         "name": "Italy Summer",
-        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
+        "url": "italy",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
@@ -25,68 +52,87 @@
         "credits": "3-4 hours",
         "cost": "$2000",
         "dates": "Summer",
-        "themes": ["Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-   
-    {
-        "name": "France",
-        "url": "france",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "france.jpg",
-        "bannerimageurl": "france_banner.jpg",
-        "region": "europe",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Teach Abroad", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ]
     },
     {
-        "name": "Spain",
+        "name": "Spain Spring Break",
         "url": "spain",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11533",
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
-        "deadline": "N/A",
+        "deadline": "December 1, 2022",
         "credits": "3-4 hours",
         "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
+        "dates": "Spring Break 2023",
+        "themes": [
+            "Citizenship in a Global Era",
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Spring Break"
+        ],
+        "futuredates": [
+            "Spring Break"
+        ]
     },
     {
         "name": "Spain Semester",
         "url": "spain-semester",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ProgramDiscovery&search=EDUC+Spring%20Semester",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11599",
         "imageurl": "spain.jpg",
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
         "deadline": "September 15, 2021",
-        "credits": "N/A",
-        "cost": "$13,500",
-        "dates": "Spring 2022",
-        "themes": ["Citizenship in a Global Era", "Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "credits": "varies",
+        "cost": "estimated $15,000",
+        "dates": "Spring 2023",
+        "themes": [
+            "Citizenship in a Global Era",
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring",
+            "'23",
+            "'24"
+        ]
     },
     {
-        "name": "Italy",
+        "name": "Italy Spring Break",
         "url": "italy",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11530",
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "N/A",
-        "credits": "N/A",
+        "deadline": "December 1, 2022",
+        "credits": "3-4",
         "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
+        "dates": "Spring Break 2023",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Spring Break"
+        ],
+        "futuredates": [
+            "Spring Break"
+        ]
     },
     {
         "name": "Italy - Early Abroad",
@@ -99,128 +145,180 @@
         "credits": "3",
         "cost": "$3500",
         "dates": "TBA",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
     },
     {
         "name": "Italy Semester",
         "url": "italy-semester",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=ProgramAdmin.ProgramEdit&Program_ID=11505",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11505",
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "September 15, 2021",
-        "credits": "N/A",
-        "cost": "$13,500",
-        "dates": "Spring 2022",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "deadline": "October 14, 2022",
+        "credits": "varies",
+        "cost": "Estimated 15,000",
+        "dates": "Spring 2023",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring",
+            "'23",
+            "'24"
+        ]
     },
     {
         "name": "Ireland Semester",
         "url": "ireland-semester",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11554",
         "imageurl": "ireland.jpg",
         "bannerimageurl": "ireland_banner.jpg",
         "region": "europe",
-        "deadline": "September 1, 2021",
-        "credits": "N/A",
-        "cost": "$13,500",
-        "dates": "Spring 2022",
+        "deadline": "October 14, 2022",
+        "credits": "varies",
+        "cost": "estimated 15,000",
+        "dates": "Spring 2023",
         "themes": [],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
+        "futuredatefilter": [
+            "Fall 2022",
+            "Fall 2023",
+            "Fall 2024",
+            "Spring 2022",
+            "Spring 2023",
+            "Spring 2024"
+        ],
+        "futuredates": [
+            "Fall/Spring",
+            "'23",
+            "'24"
+        ]
     },
     {
-        "name": "Ireland",
-        "url": "ireland",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "ireland.jpg",
-        "bannerimageurl": "ireland_banner.jpg",
-        "region": "europe",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": [],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
-    },
-    {
-        "name": "Costa Rica Semester",
-        "url": "costarica-semester",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "costarica.jpg",
-        "bannerimageurl": "costarica_banner.jpg",
-        "region": "centralamerica",
-        "deadline": "N/A",
-        "credits": "N/A",
-        "cost": "$13,500",
-        "dates": "Spring 2022",
-        "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredatefilter": ["Fall 2022", "Fall 2023", "Fall 2024", "Spring 2022", "Spring 2023", "Spring 2024"],
-        "futuredates": ["Fall/Spring '22", "'23", "'24"]
-    },
-    {
-        "name": "Costa Rica",
-        "url": "costarica",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "costarica.jpg",
-        "bannerimageurl": "costarica_banner.jpg",
-        "region": "centralamerica",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Preparing Schools for a Changing Environment"],
-        "futuredatefilter": ["Spring Break"],
-        "futuredates": ["Spring Break"]
-    },
-    {
-        "name": "Japan / Taiwan",
+        "name": "Japan Semester",
         "url": "japan",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11851",
         "imageurl": "japan.jpg",
         "bannerimageurl": "japan_banner.jpg",
         "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2000",
-        "dates": "TBA",
-        "themes": ["Best Practices in Global Education", "Historical Depth and Context"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "deadline": "October 14, 2022",
+        "credits": "varies",
+        "cost": "varies",
+        "dates": "Spring Semester",
+        "themes": [
+            "Best Practices in Global Education",
+            "Historical Depth and Context"
+        ],
+        "futuredatefilter": [
+            "Spring"
+        ],
+        "futuredates": [
+            "Spring"
+        ]
     },
     {
-        "name": "Singapore",
+        "name": "Ghana Summer",
+        "url": "ghana",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11848",
+        "imageurl": "ghana.jpg",
+        "bannerimageurl": "ghana_banner.jpg",
+        "region": "africa",
+        "deadline": "March 15, 2023",
+        "credits": "3-4",
+        "cost": "TBA",
+        "dates": "Summer 2023",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer"
+        ],
+        "futuredates": [
+            "Summer"
+        ]
+    },
+    {
+        "name": "Taiwan Semester",
+        "url": "taiwan",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11852",
+        "imageurl": "taiwan.jpg",
+        "bannerimageurl": "taiwan_banner.jpg",
+        "region": "asia",
+        "deadline": "October 14, 2023",
+        "credits": "varies",
+        "cost": "varies",
+        "dates": "Spring Semester 2023",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Spring"
+        ],
+        "futuredates": [
+            "Spring"
+        ]
+    },
+    {
+        "name": "Singapore Semester",
         "url": "singapore",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11850",
         "imageurl": "singapore.jpg",
         "bannerimageurl": "singapore_banner.jpg",
         "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$1500",
-        "dates": "TBA",
-        "themes": ["Teach Abroad", "Best Practices in Global Education"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
+        "deadline": "October 14, 2022",
+        "credits": "varies",
+        "cost": "varies",
+        "dates": "Spring Semester 2023",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Spring"
+        ],
+        "futuredates": [
+            "Spring"
+        ]
     },
     {
-        "name": "Indonesia",
-        "url": "indonesia",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "indonesia.jpg",
-        "bannerimageurl": "indonesia_banner.jpg",
-        "region": "asia",
-        "deadline": "N/A",
-        "credits": "3-4 hours",
-        "cost": "$2500",
-        "dates": "TBA",
-        "themes": ["Citizenship in a Global Era", "Resilience in Schools to (Re)Build Communities"],
-        "futuredatefilter": ["Summer"],
-        "futuredates": ["Summer"]
-   
-  
+        "name": "Egypt Winter Break",
+        "url": "egypt",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11847",
+        "imageurl": "egypt.jpg",
+        "bannerimageurl": "egypt_banner.jpg",
+        "region": "africa",
+        "deadline": " October 1, 2022",
+        "credits": "3-4",
+        "cost": "1500-2500",
+        "dates": " January 6-January 15, 2023",
+        "themes": [
+            "Teach Abroad",
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Winter Break"
+        ],
+        "futuredates": [
+            "Winter Break"
+        ]
+    }
+]
