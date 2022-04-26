@@ -8,9 +8,15 @@ headerImage: /img/header/globe.jpg
 
 This eight-week pre-college program will introduce admitted Education students to the College of Education faculty, staff and students and at the same time, introduce global education practices that have influenced education in the US. Students will participate in an online credited course, spend 3 days on campus, followed by a two week field work experience in Italy. 
 
-### Sign up for one of our informational webinars to learn more: 
-* [Thursday, April 21, 2022, 4 pm](https://illinois.zoom.us/webinar/register/WN_LNDQaUSIQTqEDxcTqTCoQQ)
+### Follow these steps to secure your spot:
 
+1. [Accept your offer](https://admissions.illinois.edu/) to Illinois by May 1, 2022.
+2. [Sign up for the Education Early Abroad program to Italy.](https://forms.illinois.edu/sec/1160736745)
+3. Pay the $500.00 deposit by May, 8 2022 (balance due June 15).
+
+**Program cost:** $3500, airfare not included.
+
+**All students** who sign up and pay their deposit **will be considered for a scholarship ranging from $500 to $4,000,** based on financial need.
 
 ### 6-weeks before traveling to Italy:
 
