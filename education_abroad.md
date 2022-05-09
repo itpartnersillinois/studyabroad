@@ -10,9 +10,8 @@ This eight-week pre-college program will introduce admitted Education students t
 
 ### Follow these steps to secure your spot:
 
-1. [Accept your offer](https://admissions.illinois.edu/) to Illinois by May 1, 2022.
-2. [Sign up for the Education Early Abroad program to Italy.](https://forms.illinois.edu/sec/1160736745)
-3. Pay the $500.00 deposit by May, 8 2022 (balance due June 15).
+1. [Sign up for the Education Early Abroad program to Italy.](https://forms.illinois.edu/sec/1160736745)
+2. Pay the $500.00 deposit by May 19 2022 (balance due June 15).
 
 **Program cost:** $3500, airfare not included.
 
