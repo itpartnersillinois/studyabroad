@@ -5,33 +5,45 @@ headerImage: /img/header/globe.jpg
 ---
 Additional campus-wide scholarships are available on the [Education Abroad website](https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/scholarships/index.html)
 
-For each study abroad program, the CoE Scholarship deadline is the same as the program deadline
+For each study abroad program, the CoE Scholarship application deadline is the same as the program application deadline
 
 ## College of Education Student Scholarship
 
-Recognizing the academic, professional, and personal value of study abroad experiences
-The College strongly encourages its students to study abroad, and provides financial support through scholarships or program discounts of $500 (depending on available funds) that are awarded to defray the costs associated with studying abroad on University of Illinois sponsored programs.
+Recognizing the academic, professional, and personal value of study abroad experiences, the College strongly encourages its students to study abroad. One of the ways in which the college supports students is offering a special scholarship opportunity based on financial need and academic standing. Depending on FAFSA reported financial need, a student may be awarded $500-$2,000 to defray the costs of a study abroad program. For each study abroad program, the CoE Scholarship application deadline is the same as the program application deadline.
 
 ### Eligibility
-Scholarship recipients must be degree-seeking students in good academic standing who are currently enrolled in an eligible education program at the University of Illinois at Urbana-Champaign. Eligible programs include undergraduate Early Childhood, Elementary, and Special Education, and Secondary Education programs in Biology, Chemistry, Earth Science, English, Math, Physics and Social Studies (History), Learning and Education Studies, as well as all graduate programs in all College of Education departments.
+Scholarship applicants must be University of Illinois Urbana- Champaign College of Education enrolled, degree-seeking students in good academic standing who are registered for the EDUC499 course. The student must have completed EDUC499 course requirements and exhibit financial need as reported by FAFSA.  Receipt of this award is not guaranteed for all applicants.
 
-All eligible students who are admitted to, and enrolled in, a University of Illinois sponsored study abroad program will be awarded the Study Abroad Scholarship. This scholarship is repeatable for subsequent study abroad experiences. However, students may not receive more than one scholarship per academic year + summer (August to August).
+Eligible majors include:
+
+ Early Childhood Education
+ Elementary Education
+ Special Education
+ Secondary Education programs in Biology, Chemistry, Earth Science, English, Math, Physics and Social Studies (History)
+ Learning and Education Studies 
+ All graduate programs in all College of Education departments.
+This scholarship is repeatable for subsequent study abroad experiences, however, students may not receive more than one scholarship per academic year + summer (August to August).
+
+Scholarship recipients are expected to:
+Complete the assigned fellowship project and submit it in EDUC 499
+Volunteer for OIP approved campus outreach events, giving presentations about your study abroad experience (expectation: 4 hours total)
 
 ### Application and Award Process
-1. Once you are admitted to a study abroad program, please [submit the Scholarship Application](https://illinois.edu/fb/sec/7154012).
-2. Enroll in the study abroad course as soon as possible. You will be contacted with information about the program discount or scholarship by email with further instructions.
-3. Once you’ve enrolled in the study abroad course, scholarship funds will be deposited directly into your student account.
-4. If you have any questions, please contact the Office of International Programs at international@education.illinois.edu.
+1. Once you are admitted to a study abroad program, please submit the Scholarship Application.
+2. Enroll in the EDUC499 study abroad course and complete all coursework. 
+3. If you are awarded the scholarship, the funds will be deposited directly into your student account.
+If you have any questions, please contact the Office of International Programs at international@education.illinois.edu.
+
 
 ## Education Abroad Scholarship Award 
 
-Established through donations from college alumni, this scholarship recognizes outstanding undergraduate and graduate students, particular those with financial need, and defrays the costs associated with studying abroad on University of Illinois College of Education sponsored programs. 
+Established through donations from college alumni, this scholarship recognizes outstanding undergraduate and graduate Education students, particularly those with clear financial need, and defrays the costs associated with studying abroad on University of Illinois College of Education sponsored programs. 
 
-Education Abroad Scholarship Award amounts are based on available funds, program costs, length of travel, and financial need eligibility as documented through the University of Illinois' Office of Student Financial Aid. Award amounts range from $500 to $3,000. Applicants are notified of the award decision and scholarship project via email. The award will typically be given during the term the student is abroad.
+Education Abroad Scholarship Award amounts are based on available funds, program costs, length of travel, and financial need eligibility as documented through the University of Illinois' Office of Student Financial Aid. Award amounts range from $500 to $3,000. Applicants are notified of the award decision and scholarship project via email. The award will typically be given during the term the student is abroad. Receipt of this scholarship is not guaranteed for all applicants.
 
 Scholarship recipients are expected to:
-* Complete the assigned fellowship project and submit in EDUC 199/499
-* Donate 4 hours sharing about the experience at OIP-approved campus events
+* Complete the assigned fellowship project and submit it in EDUC 199/499
+* Volunteer for OIP approved campus outreach events, giving presentations about your study abroad experience (expectation: 4 hours total)
 
 [Apply Here](https://forms.illinois.edu/sec/567617119){.button}
 
@@ -41,7 +53,7 @@ Established through donations from college alumni, this award recognizes outstan
 
 Award recipients are expected to:
 * Attend all academic activities while abroad and engage with participating students
-* Donate 4 hours sharing about the experience at OIP-approved campus events, school events, or in other approved ways.
+* Volunteer for OIP approved campus outreach events, giving presentations about your study abroad experience (expectation: 4 hours total)
 
 [Apply Here] (https://forms.illinois.edu/sec/776446397){.button}
 
