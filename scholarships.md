@@ -5,7 +5,7 @@ headerImage: /img/header/globe.jpg
 ---
 Additional campus-wide scholarships are available on the [Education Abroad website](https://www.studyabroad.illinois.edu/outgoing-students/costs-scholarships/scholarships/index.html)
 
-For each study abroad program, the CoE Scholarship application deadline is the same as the program application deadline
+For each study abroad program, the CoE Scholarship application deadline is the same as the program application deadline.
 
 ## College of Education Student Scholarship
 
@@ -16,11 +16,11 @@ Scholarship applicants must be University of Illinois Urbana- Champaign Colleg
 
 Eligible majors include:
 
- Early Childhood Education
- Elementary Education
- Special Education
- Secondary Education programs in Biology, Chemistry, Earth Science, English, Math, Physics and Social Studies (History)
- Learning and Education Studies 
+ Early Childhood Education,
+ Elementary Education,
+ Special Education,
+ Secondary Education programs in Biology, Chemistry, Earth Science, English, Math, Physics and Social Studies (History),
+ Learning and Education Studies, 
  All graduate programs in all College of Education departments.
 This scholarship is repeatable for subsequent study abroad experiences, however, students may not receive more than one scholarship per academic year + summer (August to August).
 
