@@ -259,26 +259,6 @@
             "Summer"
         ]
     },
-    {
-        "name": "Taiwan Semester",
-        "url": "taiwan",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11852",
-        "imageurl": "taiwan.jpg",
-        "bannerimageurl": "taiwan_banner.jpg",
-        "region": "asia",
-        "deadline": "October 14, 2023",
-        "credits": "varies",
-        "cost": "varies",
-        "dates": "Spring Semester 2023",
-        "themes": [
-            "Teach Abroad",
-            "Best Practices in Global Education"
-        ],
-        "futuredatefilter": [
-            "Spring"
-        ],
-        "futuredates": [
-            "Spring"
         ]
     },
     {
@@ -304,11 +284,11 @@
         ]
     },
     {
-        "name": "Egypt Winter Break",
-        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11847",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11847",
-        "imageurl": "Egypt.jpg",
-        "bannerimageurl": "Egypt_banner.jpg",
+        "name": "Morocco Winter Break",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11678",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11678",
+        "imageurl": "Morocco.jpg",
+        "bannerimageurl": "Morocco_banner.jpg",
         "region": "africa",
         "deadline": " October 1, 2022",
         "credits": "3-4",
