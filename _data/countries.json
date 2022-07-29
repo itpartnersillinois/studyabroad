@@ -21,27 +21,6 @@
         ]
     },
     {
-        "name": "Panama Semester",
-        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11853",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11853",
-        "imageurl": "panama.jpg",
-        "bannerimageurl": "panama_banner.jpg",
-        "region": "centralamerica",
-        "deadline": "October 14, 2022",
-        "credits": "varies",
-        "cost": "varies",
-        "dates": "Spring Semester 2023",
-        "themes": [
-            "Best Practices in Global Education"
-        ],
-        "futuredatefilter": [
-            "Spring"
-        ],
-        "futuredates": [
-            "Spring"
-        ]
-    },
-    {
         "name": "Italy Summer",
         "url": "italy",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
@@ -79,10 +58,10 @@
             "Historical Depth and Context"
         ],
         "futuredatefilter": [
-            "Spring Break"
+            "Spring Break 2023"
         ],
         "futuredates": [
-            "Spring Break"
+            "Spring Break 2023"
         ]
     },
     {
@@ -136,28 +115,6 @@
         "futuredates": [
             "Spring Break 2023"
             "Spring Break 2024"
-        ]
-    },
-    {
-        "name": "Italy - Early Abroad",
-        "url": "italy-freshmen",
-        "learnmore": "https://forms.illinois.edu/sec/949661",
-        "imageurl": "italy.jpg",
-        "bannerimageurl": "italy_banner.jpg",
-        "region": "europe",
-        "deadline": "Immediately after acceptance to Illinois",
-        "credits": "3",
-        "cost": "$3500",
-        "dates": "TBA",
-        "themes": [
-            "Best Practices in Global Education",
-            "Historical Depth and Context"
-        ],
-        "futuredatefilter": [
-            "Summer"
-        ],
-        "futuredates": [
-            "Summer"
         ]
     },
     {
@@ -238,30 +195,6 @@
         ]
     },
     {
-        "name": "Ghana Summer",
-        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11848",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11848",
-        "imageurl": "Ghana.jpg",
-        "bannerimageurl": "Ghana_banner.jpg",
-        "region": "africa",
-        "deadline": "March 15, 2023",
-        "credits": "3-4",
-        "cost": "TBA",
-        "dates": "Summer 2023",
-        "themes": [
-            "Teach Abroad",
-            "Best Practices in Global Education"
-        ],
-        "futuredatefilter": [
-            "Summer"
-        ],
-        "futuredates": [
-            "Summer"
-        ]
-    },
-        ]
-    },
-    {
         "name": "Singapore Semester",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11850",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11850",
@@ -299,10 +232,10 @@
             "Best Practices in Global Education"
         ],
         "futuredatefilter": [
-            "Winter Break"
+            "Winter Break 2023"
         ],
         "futuredates": [
-            "Winter Break"
+            "Winter Break 2023"
         ]
     }
 ]
