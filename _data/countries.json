@@ -100,8 +100,8 @@
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
         "deadline": "December 1, 2022",
-        "credits": "3-4",
-        "cost": "$2000",
+        "credits": "4",
+        "cost": "Approximately $2000",
         "dates": "Spring Break 2023",
         "themes": [
             "Best Practices in Global Education",
@@ -124,7 +124,7 @@
         "region": "europe",
         "deadline": "October 14, 2022",
         "credits": "varies",
-        "cost": "Estimated 15,000",
+        "cost": "Estimated $15,000",
         "dates": "Spring 2023",
         "themes": [
             "Best Practices in Global Education",
@@ -151,7 +151,7 @@
         "region": "europe",
         "deadline": "September 15, 2022",
         "credits": "varies",
-        "cost": "estimated 15,000",
+        "cost": "estimated $15,000",
         "dates": "Spring 2023",
         "themes": [],
         "futuredatefilter": [
@@ -218,8 +218,8 @@
         "bannerimageurl": "Morocco_banner.jpg",
         "region": "africa",
         "deadline": " September 30, 2022",
-        "credits": "3-4",
-        "cost": "1500-2500",
+        "credits": "4",
+        "cost": "Approximately $2500",
         "dates": "Winter Break 2023",
         "themes": [
             "Teach Abroad",
