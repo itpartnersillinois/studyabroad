@@ -4,7 +4,6 @@ pageTitle: Why With Us
 headerImage: /img/header/globe.jpg
 ---
 
-{{ "https://www.youtube.com/embed/AMP30LCwUbQ" | addVideo }}
 
 Education abroad is a powerful step towards building your own familiarity with other cultures, improving your own teaching practice, and developing your own global network of colleagues that can support you as a teacher. 
 
