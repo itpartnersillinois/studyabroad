@@ -7,8 +7,8 @@
         "bannerimageurl": "panama_banner.jpg",
         "region": "centralamerica",
         "deadline": "March 31,2023",
-        "credits": "3-4 hours",
-        "cost": "$2000",
+        "credits": "4 hours",
+        "cost": "estimated $2000",
         "dates": "Summer 2023",
         "themes": [
             "Best Practices in Global Education"
@@ -28,8 +28,8 @@
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
         "deadline": "March 15,2023",
-        "credits": "3-4 hours",
-        "cost": "$2000",
+        "credits": "4 hours",
+        "cost": "estimated $2000",
         "dates": "Summer 2023",
         "themes": [
             "Best Practices in Global Education"
@@ -49,8 +49,8 @@
         "bannerimageurl": "spain_banner.jpg",
         "region": "europe",
         "deadline": "December 1, 2022",
-        "credits": "3-4 hours",
-        "cost": "$2000",
+        "credits": "4 hours",
+        "cost": "estimated $2000",
         "dates": "Spring Break 2023",
         "themes": [
             "Citizenship in a Global Era",
@@ -101,7 +101,7 @@
         "region": "europe",
         "deadline": "December 1, 2022",
         "credits": "4",
-        "cost": "Approximately $2000",
+        "cost": "estimated $2000",
         "dates": "Spring Break 2023",
         "themes": [
             "Best Practices in Global Education",
