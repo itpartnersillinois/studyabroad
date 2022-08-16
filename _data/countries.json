@@ -6,7 +6,7 @@
         "imageurl": "panama.jpg",
         "bannerimageurl": "panama_banner.jpg",
         "region": "centralamerica",
-        "deadline": "March 31,2022",
+        "deadline": "March 31,2023",
         "credits": "3-4 hours",
         "cost": "$2000",
         "dates": "Summer 2023",
@@ -27,7 +27,7 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "March 31,2022",
+        "deadline": "March 15,2023",
         "credits": "3-4 hours",
         "cost": "$2000",
         "dates": "Summer 2023",
@@ -81,10 +81,8 @@
             "Historical Depth and Context"
         ],
         "futuredatefilter": [
-            "Fall 2022",
             "Fall 2023",
             "Fall 2024",
-            "Spring 2022",
             "Spring 2023",
             "Spring 2024"
         ],
@@ -133,10 +131,8 @@
             "Historical Depth and Context"
         ],
         "futuredatefilter": [
-            "Fall 2022",
             "Fall 2023",
             "Fall 2024",
-            "Spring 2022",
             "Spring 2023",
             "Spring 2024"
         ],
@@ -153,16 +149,14 @@
         "imageurl": "ireland.jpg",
         "bannerimageurl": "ireland_banner.jpg",
         "region": "europe",
-        "deadline": "October 14, 2022",
+        "deadline": "September 15, 2022",
         "credits": "varies",
         "cost": "estimated 15,000",
         "dates": "Spring 2023",
         "themes": [],
         "futuredatefilter": [
-            "Fall 2022",
             "Fall 2023",
             "Fall 2024",
-            "Spring 2022",
             "Spring 2023",
             "Spring 2024"
         ],
@@ -201,7 +195,7 @@
         "imageurl": "singapore.jpg",
         "bannerimageurl": "singapore_banner.jpg",
         "region": "asia",
-        "deadline": "October 14, 2022",
+        "deadline": "September 15, 2022",
         "credits": "varies",
         "cost": "varies",
         "dates": "Spring 2023",
@@ -223,7 +217,7 @@
         "imageurl": "Morocco.jpg",
         "bannerimageurl": "Morocco_banner.jpg",
         "region": "africa",
-        "deadline": " October 1, 2022",
+        "deadline": " September 30, 2022",
         "credits": "3-4",
         "cost": "1500-2500",
         "dates": "Winter Break 2023",
