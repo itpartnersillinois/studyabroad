@@ -47,7 +47,7 @@ Scholarship recipients are expected to:
 
 [Apply Here](https://forms.illinois.edu/sec/567617119){.button}
 
-## Mentor Educator Award
+## Global Mentor Educator Award
 
 Established through donations from college alumni, this award recognizes outstanding alumni of the College of Education and supports their participation in study abroad on University of Illinois College of Education sponsored programs. During the study abroad program, Mentor Educators will join discussions, share reflections, and support the development of global perspectives in education for undergraduate and graduate student participants during the travel portion of study abroad. Mentor Educators may participate in additional graduate coursework for professional development or graduate credit. 
 
@@ -55,7 +55,7 @@ Award recipients are expected to:
 * Attend all academic activities while abroad and engage with participating students
 * Volunteer for OIP approved campus outreach events, giving presentations about your study abroad experience (expectation: 4 hours total)
 
-[Apply Here] (https://forms.illinois.edu/sec/776446397){.button}
+[Apply Here](https://forms.illinois.edu/sec/776446397){.button}
 
 ## Global Intersection Fellowship for Teachers
 
@@ -66,6 +66,16 @@ In order to be considered for the GIFT scholarship, teachers must submit both an
 The GIFT Scholarship is funded in part by a grant from the Department of Education Title VI program.
 * [Gift Application](https://forms.illinois.edu/sec/965420904){.button}
 * [Recommendation Form](https://forms.illinois.edu/sec/2129804469){.button}
+
+## Early Abroad Scholarship
+
+The College of Education recognizes the value of giving undergraduates the opportunity to enhance their experiences through study abroad experiences and offers current students the opportunity to receive funding for an Education Abroad program. The program must take place over winter break, spring break, or summer programs during freshman year. Early Abroad Scholarship applicants may receive up to $1,000 to use as funding. 
+
+
+In order to be considered for the Early Abroad Scholarship, applicants must submit both an application and a recommendation from one faculty member. The recipients must be willing to do a joint presentation on their experience when they get back. The applicant must be degree-seeking Freshmen in good academic standing who are currently enrolled in an eligible education program at the University of Illinois at Urbana-Champaign. Eligible programs include undergraduate Pre-Teacher, Early Childhood, Elementary, and Special Education, and Secondary Education programs in Biology, Chemistry, Earth Science, English, Math, Physics, and Social Studies (History), as well as all graduate programs in all College of Education departments. The application is below. 
+
+The Early Abroad Scholarship is funded through Hardie Funds.
+* [Early Abroad Application](https://forms.illinois.edu/sec/2114744516?referrer=https://shibboleth.illinois.edu/){.button}
 
 ## Financial Aid
 Because this program is sponsored by the University of Illinois, financial aid can be applied to the cost of the program. The amount of financial aid that is applicable to your program will depend on your financial aid package. Because there are many variables that determine your financial aid package, it is best that you consult with a financial aid advisor in the [Office of Student Financial Aid](https://www.osfa.illinois.edu/) to discuss your individual financial aid package. 
