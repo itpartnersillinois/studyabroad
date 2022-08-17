@@ -33,15 +33,7 @@ Barcelona: Motel One
 
 <div id="programs">
 
-3/13	Depart USA
-3/14	Arrive in Barcelona, Arranged transport to Tarragona
-3/15	Opening Lecture: The Profile and Motivation for Becoming a Teacher, Lunch, Lecture: Language Immersion, Tarragona Old Town Visit
-3/16	School visit (morning), Lunch break, School visit (afternoon)
-3/17	Winery excursion to Priorat County
-3/18	Lecture: Systems of Reception and Integration of Migrant Students, Lunch, Lecture: Learning in the 21st Century
-3/19	Rural school visit (morning), Farewell lunch, Depart for Barcelona
-3/20	Free day in Barcelona
-3/21	Depart for USA
+Daily programs and excursions are TBA. Check back soon!
 
 </div>
 
@@ -63,9 +55,9 @@ Weekend in Barcelona:
 <div id="courses">
 
 EDUC 499: Education Abroad
-Section: USP, GSP
+Section: TBD
 CRNs: TBD
-Credits: 3-4
+Credits: 4
 Course Start Date: TBD
 
 The EDUC 499 course will center on the experience of travel as it relates to education – your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. Students will learn about the host destination's culture and educational qualities through weekly readings and discussion. The course is structured asynchronously with guidance from the instructor and program leaders. Expectations are participation in weekly readings and assignments, active engagement abroad, and completion of a final project. There will be four weeks of class pre-trip and two weeks of class post-trip. 
@@ -74,15 +66,13 @@ The EDUC 499 course will center on the experience of travel as it relates to edu
 
 <div id="topics">
 
-Best Practices in Global Education - Second Language Teaching and Learning
-Citizenship in a Global Era
-Historical Depth & Context
+Key Topics of Study are TBA!
  
 </div>
 
 <div id="cost">
 
-Total Program Cost: $2,000
+Total Program Cost: Approximately $2,000
 *subject to adjustment based on currency fluctuations.
 Includes: Accommodation, some meals, dinner reception in Barcelona, all ground travel, and sightseeing tours. Airfare not included.
 
@@ -107,8 +97,7 @@ The College of Education will provide qualified students with a $500 scholarship
 
 <div id="faculty">
 
-### Mackenzie Dankle - Program Leader
-Mackenzie's role as program coordinator is the day-to-day management of student services, host institution relations, program academics, and student evaluations. She is a doctoral student in the College of Education EPOL Department, as well as a Research Assistant in the International Programs office. Mackenzie has conducted research in Tarragona, as well as other areas of Catalonia, Spain, as part of her Master's Thesis. She has also lived and taught secondary-level English in Madrid, Spain.
+Program leader will be announced soon!
 
 </div>
 
