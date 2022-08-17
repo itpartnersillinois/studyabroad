@@ -77,7 +77,7 @@ Because this program is sponsored by the University of Illinois, financial aid c
 
 The College of Education will provide qualified students with a scholarship for studying abroad. Please plan to budget an additional $200-$500 for: Ground transportation, Thank you gifts for your home stay family and teachers, Tourist activities, Other incidentals, International student insurance ($75 billed to your student account).
 
-[College of Education Scholarships]([https://international.education.illinois.edu/study-abroad/scholarships]){.button}
+[College of Education Scholarships](https://international.education.illinois.edu/study-abroad/scholarships){.button}
 
 </div>
 
