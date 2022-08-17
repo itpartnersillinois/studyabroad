@@ -6,7 +6,7 @@ learnMore: "https://forms.illinois.edu/sec/949661"
 information: To edit the header, please go to the _data/countries.json file and edit the information there
 ---
 
-## Best Practices, Early Childhood, and Reggio Emilia in Itaky
+## Best Practices, Early Childhood, and Reggio Emilia in Italy
 
 During this spring break study abroad trip, participants will visit Milan, Reggio Emilia, and Venice in Italy.  We will take you to visit classrooms and learn from the cultural and educational perspectives of Italian students and teachers. We will also meet up with the semester study abroad students and teach abroad students from the College of Education! 
 
