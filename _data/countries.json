@@ -93,29 +93,6 @@
         ]
     },
     {
-        "name": "Italy Spring Break",
-        "url": "italy",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11530",
-        "imageurl": "italy3.jpg",
-        "bannerimageurl": "italy_banner.jpg",
-        "region": "europe",
-        "deadline": "December 1, 2022",
-        "credits": "4",
-        "cost": "estimated $2000",
-        "dates": "Spring Break 2023",
-        "themes": [
-            "Best Practices in Global Education",
-            "Historical Depth and Context"
-        ],
-        "futuredatefilter": [
-            "Spring Break 2023"
-        ],
-        "futuredates": [
-            "Spring Break 2023",
-            "Spring Break 2024"
-        ]
-    },
-    {
         "name": "Italy Semester",
         "url": "italy-semester",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11505",
@@ -217,7 +194,7 @@
         "imageurl": "Morocco.jpg",
         "bannerimageurl": "Morocco_banner.jpg",
         "region": "africa",
-        "deadline": " September 30, 2022",
+        "deadline": "September 30, 2022",
         "credits": "4",
         "cost": "Approximately $2500",
         "dates": "Winter Break 2023",
@@ -230,6 +207,28 @@
         ],
         "futuredates": [
             "Winter Break 2023"
+        ]
+    },
+    {
+        "name": "Italy Spring Break",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11530",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11530",
+        "imageurl": "italy2.jpg",
+        "bannerimageurl": "italy2.jpg",
+        "region": "europe",
+        "deadline": "December 1, 2022",
+        "credits": "4",
+        "cost": "Approximately $2000",
+        "dates": "Spring Break 2023",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Spring Break 2023"
+        ],
+        "futuredates": [
+            "Spring Break 2023",
+            "Spring Break 2024"
         ]
     }
 ]
