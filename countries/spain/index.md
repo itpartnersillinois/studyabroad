@@ -6,11 +6,11 @@ learnMore: "https://forms.illinois.edu/sec/949661"
 information: To edit the header, please go to the _data/countries.json file and edit the information there
 ---
 
-## Spring Break in Catalonia - Second Language Teaching & Learning
+## Spring Break in Barcelona - Second Language Teaching & Learning
 
 Tarragona and Barcelona, Spain
 
-Collaborating with Centre de Formació Permanent at Universitat Politècnica de València (URV), this study abroad trip aims to provide students an overview of education in the Catalonia region and a comparative experience between the European and American education systems. This program is a unique opportunity to learn about the dynamics of language teaching and learning as Catalonia is a region where Spanish and English are taught as second languages alongside the dominant Catalan language. 
+Collaborating with Centre de Formació Permanent at Universitat Politècnica de València (URV), this study abroad trip aims to provide students an overview of education in the Spanish region and a comparative experience between the European and American education systems.
 
 On this trip, students will visit URV, attend seminars at the College of Education, visit local schools, tour local cultural sites such as Reus Art Nouveau tour, and spend the weekend in Barcelona!
 
