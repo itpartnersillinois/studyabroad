@@ -6,10 +6,6 @@
             {
                 "name": "Search By Location",
                 "url": "/program-search/index.html"
-            },
-            {
-                "name": "Search By Themes",
-                "url": "/program-themes/index.html"
             }
         ]
     },
