@@ -66,7 +66,7 @@
     },
     {
         "name": "Spain Semester",
-        "url": "spain-semester",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11599",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11599",
         "imageurl": "spain2.jpg",
         "bannerimageurl": "spain_banner.jpg",
@@ -94,7 +94,7 @@
     },
     {
         "name": "Italy Semester",
-        "url": "italy-semester",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11505",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11505",
         "imageurl": "italy2.jpg",
         "bannerimageurl": "italy_banner.jpg",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Ireland Semester",
-        "url": "ireland-semester",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11554",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11554",
         "imageurl": "ireland.jpg",
         "bannerimageurl": "ireland_banner.jpg",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Japan Semester",
-        "url": "japan",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11851",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11851",
         "imageurl": "japan.jpg",
         "bannerimageurl": "japan_banner.jpg",
