@@ -40,3 +40,5 @@ international@education.illinois.edu
 Education Building, Room 260A
 1310 S. Sixth St.
 Champaign, IL 61820
+
+Office hours: Monday-Tuesday from 1:00-3:00 in the Education Building Room 206 or you can schedule a meeting through the link. https://calendly.com/studyabroadcoe/
