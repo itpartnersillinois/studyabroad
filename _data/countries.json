@@ -27,7 +27,7 @@
         "imageurl": "italy.jpg",
         "bannerimageurl": "italy_banner.jpg",
         "region": "europe",
-        "deadline": "March 15,2023",
+        "deadline": "March 15, 2023",
         "credits": "4 hours",
         "cost": "estimated $3000 plus airfare",
         "dates": "Summer 2023",
@@ -229,6 +229,28 @@
         "futuredates": [
             "Spring Break 2023",
             "Spring Break 2024"
+        ]
+    },
+    {
+        "name": "Singapore and Indonesia Summer",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11594",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11594",
+        "imageurl": "indonesia.jpg",
+        "bannerimageurl": "indonesia.jpg",
+        "region": "asia",
+        "deadline": "March 15, 2023",
+        "credits": "4",
+        "cost": "Approximately $3000 plus airfare",
+        "dates": "Summer 2023",
+        "themes": [
+            "Best Practices in Global Education"
+        ],
+        "futuredatefilter": [
+            "Summer 2023"
+        ],
+        "futuredates": [
+            "Summer 2023",
+            "Summer 2024"
         ]
     }
 ]
