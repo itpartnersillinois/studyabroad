@@ -17,4 +17,4 @@ The University of Illinois College of Education has designed programs for educat
 * Spend time in placements with students from your target age group within local PreK-12 classrooms
 
 Please contact the Office of International Programs at the College of Education to request to schedule an education abroad advising session here.
-[Contact Us](https://calendly.com/studyabroadcoe/)){.button}
+[Contact Us](https://calendly.com/studyabroadcoe/){.button}
