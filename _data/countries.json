@@ -42,6 +42,26 @@
         ]
     },
     {
+        "name": "Namibia Winter Break",
+        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11891",
+        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11891",
+        "imageurl": "namibia.jpg",
+        "bannerimageurl": "namibia.jpg",
+        "region": "africa",
+        "deadline": "October 7, 2022",
+        "credits": "4 hours",
+        "cost": "estimated $2500 plus airfare",
+        "dates": "Spring Break 2023",
+        "themes": [
+        ],
+        "futuredatefilter": [
+            "Winter Break 2023"
+        ],
+        "futuredates": [
+            "Winter Break 2023"
+        ]
+    },
+    {
         "name": "Spain Spring Break",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11533",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11533",
