@@ -21,27 +21,6 @@
         ]
     },
     {
-        "name": "Italy Summer",
-        "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
-        "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11785",
-        "imageurl": "italy.jpg",
-        "bannerimageurl": "italy_banner.jpg",
-        "region": "europe",
-        "deadline": "March 15, 2023",
-        "credits": "4 hours",
-        "cost": "estimated $3000 plus airfare",
-        "dates": "Summer 2023",
-        "themes": [
-            "Best Practices in Global Education"
-        ],
-        "futuredatefilter": [
-            "Summer 2023"
-        ],
-        "futuredates": [
-            "Summer 2023"
-        ]
-    },
-    {
         "name": "Namibia Winter Break",
         "url": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11891",
         "learnmore": "https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11891",
